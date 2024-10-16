@@ -19,7 +19,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review (通讯).
 
-- DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations. _IEEE Transactions on Big Data_, 2024, second review (通讯). [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
+- DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations. _IEEE Transactions on Big Data_, 2024, Minor Revision (通讯). [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
 
 - FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review (通讯).
 
