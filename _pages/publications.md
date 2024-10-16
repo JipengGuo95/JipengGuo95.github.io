@@ -13,7 +13,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - 基于双跨视相关性检测的多视子空间聚类, 2024, 计算机工程, 二审 (一作).
 
-- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, under review (一作).
+- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, Major Revision (一作).
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review (一作).
 
@@ -22,6 +22,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations. _IEEE Transactions on Big Data_, 2024, second review (通讯). [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
 
 - FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review (通讯).
+
+- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision (四作).
 
 - Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024, under review (二作).
 
