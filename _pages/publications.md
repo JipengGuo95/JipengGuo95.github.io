@@ -23,11 +23,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review (通讯).
 
-- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision (四作).
+- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision.
 
-- Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024, under review (二作).
+- Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024, under review.
 
-- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review (三作).
+- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review.
 
 
 ## Publications
