@@ -29,15 +29,15 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
   
 
 ## Representative Publications
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering", _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
  
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization," _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization", _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
 
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization," _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. (**CCF-B**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428)
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization", _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. (**CCF-B**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428)
 
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust Adaptive Linear Discriminant Analysis with Bidirectional Reconstruction Constraint," _**ACM Transactions on Knowledge Discovery from Data (TKDD)**_, 2020, 14(6): 75. (**CCF-B**, **中科院三区**) [[PDF]](https://dl.acm.org/doi/abs/10.1145/3409478) 
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust Adaptive Linear Discriminant Analysis with Bidirectional Reconstruction Constraint", _**ACM Transactions on Knowledge Discovery from Data (TKDD)**_, 2020, 14(6): 75. (**CCF-B**, **中科院三区**) [[PDF]](https://dl.acm.org/doi/abs/10.1145/3409478) 
  
 
-- Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute," _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
+- Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute", _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
 
 
