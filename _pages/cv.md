@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Reviewer for Journals
 
+## Reports
+- 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, Oral, 贵阳.
+
+## Reviewer for Journals
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Circuits and Systems for Video Technology
 - Expert Systems With Applications
