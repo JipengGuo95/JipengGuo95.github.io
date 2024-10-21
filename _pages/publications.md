@@ -19,8 +19,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review (通讯).
 
-- DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations. _IEEE Transactions on Big Data_, 2024, Minor Revision (通讯). [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
-
 - FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review (通讯).
 
 - Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision.
@@ -33,9 +31,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications
 
 **<span style="color:green;">[2024]</span>**
+-  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
 
--  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring," _**IEEE Transactions on Control
-Systems Technology**_, 2024.
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring," _**IEEE Transactions on Control Systems Technology**_, 2024.
 
 -  **Jipeng Guo**, Tengxiao Yin, Tianxiang Zhao, Jiayi Zhao, Yanfeng Sun, Junbin Gao, and Youqing Wang*. "Improved attributed graph clustering with representation and structure augmentation," _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2024. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10650771)
 
