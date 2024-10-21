@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Reports
-- 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, 分会场口头汇报, 贵阳. [[Picture]](files/ChinaMM2022Oral.jpg)
+- 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, 分会场口头汇报, 贵阳. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
 
 ## Reviewer for Journals
 - IEEE Transactions on Cybernetics
