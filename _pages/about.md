@@ -21,7 +21,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 # <i><span style="color:red;">News</span></i>
 
-* **<span style="color:red;">[Paper:]</span>** Our paper "[[DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations]](https://arxiv.org/abs/2401.15584)" is now accepted in _**IEEE Transactions on Big Data**_. (Octorber 2024)
+* **<span style="color:red;">[Paper:]</span>** Our paper "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations [[PPDF]](https://arxiv.org/abs/2401.15584)" is now accepted in _**IEEE Transactions on Big Data**_. (Octorber 2024)
 
 * **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
 
