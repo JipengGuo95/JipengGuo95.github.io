@@ -15,4 +15,5 @@ redirect_from:
 - **2024:** Xiang Xu; Tianxiang Zhao, Yan Pan and Yu Cao (Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm))
 - **2025:** Man Cao; Haopeng Yang and Yuchen Wang (Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm))
 
-# <i><span style="color:red;">News</span></i>  
+## <i><span style="color:red;">Welcome</span></i>  
+Welcome students interested in my research to join us. Recruiting 1 master's student and 1-2 undergraduate students annually.
