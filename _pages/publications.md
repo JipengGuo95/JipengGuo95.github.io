@@ -19,6 +19,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint (通讯).
 
+- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review (通讯).
+
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review (通讯).
 
 - FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review (通讯).
