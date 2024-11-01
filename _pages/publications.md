@@ -35,7 +35,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications
 
 **<span style="color:green;">[2024]</span>**
--  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://arxiv.org/abs/2401.15584) [[Code]](https://github.com/JinluWang1002/DGNN)
+-  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://xplorestaging.ieee.org/document/10740335) [[Code]](https://github.com/JinluWang1002/DGNN)
 
 -  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring", _**IEEE Transactions on Control Systems Technology**_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10737648)
 
