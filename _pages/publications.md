@@ -11,8 +11,6 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
-- 基于双跨视相关性检测的多视子空间聚类, 2024, 计算机工程, 二审 (一作).
-
 - Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, Major Revision (一作).
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review (一作).
@@ -37,6 +35,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications
 
 **<span style="color:green;">[2024]</span>**
+-  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2024. (CCF T2类)
+
 -  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://xplorestaging.ieee.org/document/10740335) [[Code]](https://github.com/JinluWang1002/DGNN)
 
 -  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring", _**IEEE Transactions on Control Systems Technology**_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10737648)
