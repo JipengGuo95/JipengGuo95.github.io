@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 # <i><span style="color:red;">News</span></i>
 
+* **<span style="color:red;">[Paper:]</span>** Our paper "基于双跨视相关性检测的多视子空间聚类" is now accepted in _**计算机工程 (CCF T2类)**_. (Octorber 2024)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations" is now accepted in _**IEEE Transactions on Big Data**_. (Octorber 2024)
 
 *   **<span style="color:red;">[Paper:]</span>** Our paper "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring" is now accepted in  _**IEEE Transactions on Control Systems Technology**_. (October 2024)
