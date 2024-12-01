@@ -22,4 +22,5 @@ redirect_from:
 
 ## Reviewer for Conferences
 - The Thirteenth International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
+- International Joint Conference on Neural Networks 2025 ([IJCNN](https://2025.ijcnn.org/))
 - International Conference on Pattern Recognition 2024
