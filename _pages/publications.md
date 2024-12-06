@@ -11,25 +11,25 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
-- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, Major Revision (一作).
+- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, Major Revision. (一作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review (一作).
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review. (一作)
 
-- ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint, prepared by *Jinlu Wang* (通讯).
+- ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
 
-- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by Yachao Yang. [[PDF]](https://arxiv.org/abs/2411.11284)
+- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by *Yachao Yang*. [[PDF]](https://arxiv.org/abs/2411.11284) (通讯)
 
-- Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by Tianxiang Zhao (通讯).
+- Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by *Tianxiang Zhao*. (通讯)
 
-- FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by Tengxiao Yin (通讯).
+- FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Fuzzy inference and temporal logic based reliable graph neural network for industrial fault diagnosis. 2024, under review, prepared by Tengxiao Yin (通讯).
+- Fuzzy inference and temporal logic based reliable graph neural network for industrial fault diagnosis. 2024, under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision, prepared by Mingliang Cui.
+- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision, prepared by *Mingliang Cui*. (四作)
 
-- Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by Tianchuan Yang.
+- Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by *Tianchuan Yang*. （三作）
 
-- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review, prepared by Yachao Yang.
+- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review, prepared by *Yachao Yang*. （三作）
 
 
 ## Publications
