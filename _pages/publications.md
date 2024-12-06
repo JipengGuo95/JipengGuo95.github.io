@@ -15,7 +15,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review (一作).
 
-- ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint, prepared by Jinlu Wang (通讯).
+- ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint, prepared by *Jinlu Wang* (通讯).
 
 - Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by Yachao Yang. [[PDF]](https://arxiv.org/abs/2411.11284)
 
