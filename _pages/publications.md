@@ -17,7 +17,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - ComGraph: Intergrating Local Fine-Grained and Global Information Using Mixup Agumentation and Multi-head Attention, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
 
-- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by *Yachao Yang*. [[PDF]](https://arxiv.org/abs/2411.11284) (通讯)
+- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by *[[Yachao Yang]](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (通讯)
 
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by *Tianxiang Zhao*. (通讯)
 
