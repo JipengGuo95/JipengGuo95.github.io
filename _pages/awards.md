@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-- **Excellent Doctoral Thesis** from Beijing Society of Image and Graphics
+- My doctoral dissertation “Coordinated Representation based Multi-view Subspace Clustering” was awarded the  **Excellent Doctoral Dissertation of Beijing Society of Image and Graphics** 
