@@ -15,7 +15,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review. (一作)
 
--Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
+- Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
 
 - Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (通讯)
 
