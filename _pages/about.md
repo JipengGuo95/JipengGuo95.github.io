@@ -20,7 +20,9 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for IJCNN 2025. (November 2024)
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICML2025. (December 2024)
+
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICML2025 and IJCNN 2025. (November 2024)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "基于双跨视相关性检测的多视子空间聚类" is now accepted in _**计算机工程 (CCF中文期刊 T2类)**_. (November 2024)
 
