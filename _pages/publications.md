@@ -25,8 +25,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Fuzzy inference and temporal logic based reliable graph neural network for industrial fault diagnosis. 2024, under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis.  _IEEE Transactions on Instrumentation and Measurement_, 2024, Major Revision, prepared by *Mingliang Cui*. (四作)
-
 - Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by *Tianchuan Yang*. （三作）
 
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
@@ -35,6 +33,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications
 
 **<span style="color:green;">[2024]</span>**
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2024. 
+  
 -  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2024. (CCF T2类)
 
 -  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://xplorestaging.ieee.org/document/10740335) [[Code]](https://github.com/JinluWang1002/DGNN)
