@@ -23,9 +23,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
-- FIGNN: Fuzzy inference-guided graph neural network for fault diagnosis in industrial processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by *Tengxiao Yin*. (通讯)
+- FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Fuzzy inference and temporal logic based reliable graph neural network for industrial fault diagnosis. 2024, under review, prepared by *Tengxiao Yin*. (通讯)
+- Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis. 2024, under review, prepared by *Tengxiao Yin*. (通讯)
 
 - Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by *Tianchuan Yang*. （三作）
 
