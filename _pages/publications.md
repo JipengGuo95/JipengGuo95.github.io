@@ -53,6 +53,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jiahao Long, Youqing Wang*, **Jipeng Guo**, Shilong Xu, and Li Liang. "Topological-Semantic Structure and Attribute Representations Decoupling Learning for Improved Graph Neural Networks", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024. (Accepted)
 
+- Shilong Xu, **Jipeng Guo**, Jiahao Long, Mingliang Cui, and Youqing Wang*. "High-Low Frequency Filtering aware Graph Neural Networks with Representation Decoupling Learning", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024. (Accepted)
+
 - Bin Xiao, **Jipeng Guo**, Juntao Hu, Yifan Dong, and Youqing Wang*. "Comprehensive Multi-view Subspace Clustering with Global-and-Local Representation Learning", _**In Proceedings of The 17th Annual International Conference on Combinatorial Optimization and Applications (COCOA)**_, 2024. (Accepted)
 
 **<span style="color:green;">[2023]</span>**
