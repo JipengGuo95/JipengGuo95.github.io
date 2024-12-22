@@ -19,8 +19,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
 
-- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (通讯)
-
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
 - FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by *Tengxiao Yin*. (通讯)
@@ -30,6 +28,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by *Tianchuan Yang*. （三作）
 
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
+
+- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs,  _IEEE Transactions on Knowledge and Data Engineering_, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
 
 
 ## Publications
