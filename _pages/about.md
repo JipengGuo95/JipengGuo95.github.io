@@ -21,7 +21,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for IJCAI2025. (December 2024)
-* 
+ 
 * **<span style="color:red;">[Paper:]</span>** Our paper "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit" is now conditionally accepted in _**IEEE Transactions on Control Systems Technology**_. (December 2024)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis" is now accepted in _**IEEE Transactions on Instrumentation and Measurement**_. (December 2024)
