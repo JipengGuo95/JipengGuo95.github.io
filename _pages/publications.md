@@ -35,6 +35,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications
 
 **<span style="color:green;">[2024]</span>**
+-  Mingliang Cui, Youqing Wang, **Jipeng Guo**, Tongze Hou, and Xin Ma*. "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit", _**IEEE Transactions on Control Systems Technology**_, 2024. 
+
 -  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2024. 
   
 -  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2024. (CCF T2类)
