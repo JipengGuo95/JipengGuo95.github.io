@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 - 《协同表示的多视子空间聚类方法研究》获**北京图象图形学学会优秀博士论文**（京津冀共5篇），2023.
-- My doctoral dissertation “Coordinated Representation based Multi-view Subspace Clustering” was awarded the  **Excellent Doctoral Dissertation of Beijing Society of Image and Graphics**, 2023.
-- **First Prize of Excellent Postdoctoral Fellows** in Beijing University of Chemical Technology, 2024.
-- **National Scholarship (No. BSY202206986)** in Beijing University of Technology, 2022.
-- **Outstanding Graduates from Beijing (No. 202310005y021)** in Beijing University of Technology, 2023.
+- **北京化工大学“博学”青年学者**，2024.
+- **北京化工大学第二批优秀博士后一等奖**，2024.
+- **国家奖学金**(No. BSY202206986), 2022.
+- **北京优秀毕业生**(No. 202310005y021), 2023.
 
