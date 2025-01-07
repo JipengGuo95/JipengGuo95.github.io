@@ -15,7 +15,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review. (一作)
 
-- Parallelly Cross-attentive Mixed-filtering with Multi-scale Fusion for Both Homophily and Heterophily,  _IEEE Transactions on Knowledge and Data Engineering_. 2024, Preprint, prepared by *Jiahao Long*. (通讯) 
+- Parallelly Cross-attentive Mixed-filtering with Multi-scale Fusion for Both Homophily and Heterophily,  _IEEE Transactions on Knowledge and Data Engineering_. 2024, Preprint, prepared by *Jiahao Long*. (通讯)
+
+- Contrastive Graph Clustering Network with Hard Samples Dual Coordination Attention, _IEEE Transactions on Image Processing_. 2024, Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
 - Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
 
