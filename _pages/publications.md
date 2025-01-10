@@ -11,27 +11,27 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
-- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, Major Revision. (一作)
+- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024. Major Revision. (一作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024, under review. (一作)
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
-- Parallelly Cross-attentive Mixed-filtering with Multi-scale Fusion for Both Homophily and Heterophily,  _IEEE Transactions on Knowledge and Data Engineering_. 2024, Preprint, prepared by *Jiahao Long*. (通讯)
+- Parallelly Cross-attentive Mixed-filtering with Multi-scale Fusion for Both Homophily and Heterophily, 2024. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- Contrastive Graph Clustering Network with Hard Samples Dual Coordination Attention, _IEEE Transactions on Image Processing_. 2024, Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+- Contrastive Graph Clustering Network with Hard Samples Dual Coordination Attention, 2024. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
-- Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024, Preprint, prepared by *Jinlu Wang*. (通讯)
+- Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024. Preprint, prepared by *Jinlu Wang*. (通讯)
 
-- Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024, under review, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+- Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024. Under review, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
-- FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes. _IEEE Transactions on Instrumentation and Measurement_, 2024, under review, prepared by *Tengxiao Yin*. (通讯)
+- FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes, 2024. Under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis. 2024, under review, prepared by *Tengxiao Yin*. (通讯)
+- Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis, 2024. Under review, prepared by *Tengxiao Yin*. (通讯)
 
-- Triplets-based Large-scale Multi-view Spectral Clustering, _Information Fusion_, 2024,  Major Revision, prepared by *Tianchuan Yang*. （三作）
+- Triplets-based Large-scale Multi-view Spectral Clustering, 2024.  Major Revision, prepared by *Tianchuan Yang*. （三作）
 
-- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
+- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
 
-- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs,  _IEEE Transactions on Knowledge and Data Engineering_, 2024, under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
+- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
 
 
 ## Publications
@@ -39,7 +39,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2024]</span>**
 -  Mingliang Cui, Youqing Wang, **Jipeng Guo**, Tongze Hou, and Xin Ma*. "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit", _**IEEE Transactions on Control Systems Technology**_, 2024. 
 
--  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2024. 
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2024. [[pdf]](https://ieeexplore.ieee.org/document/10836197)
   
 -  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2024. (CCF T2类)
 
