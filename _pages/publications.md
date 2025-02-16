@@ -55,9 +55,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Qi Zhang, Yanfeng Sun*, **Jipeng Guo**, Shaofan Wang, Jinghua Li, Junbin Gao, and Baocai Yin. "AUTOFGNN: A Framework for Extracting All Frequency Information from Large-scale Graphs", _**In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**_, 2024. (CCF-B) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10448287)
 
-- Jiahao Long, Youqing Wang*, **Jipeng Guo**, Shilong Xu, and Li Liang. "Topological-Semantic Structure and Attribute Representations Decoupling Learning for Improved Graph Neural Networks", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024. (Accepted)
+- Jiahao Long, Youqing Wang*, **Jipeng Guo**, Shilong Xu, and Li Liang. "Topological-Semantic Structure and Attribute Representations Decoupling Learning for Improved Graph Neural Networks", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 2523-2528. [[PDF]](https://ieeexplore.ieee.org/document/10865498)
 
-- Shilong Xu, **Jipeng Guo**, Jiahao Long, Mingliang Cui, and Youqing Wang*. "High-Low Frequency Filtering aware Graph Neural Networks with Representation Decoupling Learning", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024. (Accepted)
+- Shilong Xu, **Jipeng Guo**, Jiahao Long, Mingliang Cui, and Youqing Wang*. "High-Low Frequency Filtering aware Graph Neural Networks with Representation Decoupling Learning", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 4005-4010. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10864603)
 
 - Bin Xiao, **Jipeng Guo**, Juntao Hu, Yifan Dong, and Youqing Wang*. "Comprehensive Multi-view Subspace Clustering with Global-and-Local Representation Learning", _**In Proceedings of The 17th Annual International Conference on Combinatorial Optimization and Applications (COCOA)**_, 2024. (Accepted)
 
