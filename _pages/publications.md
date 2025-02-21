@@ -11,8 +11,6 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
-- Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024. Major Revision. (一作)
-
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2024. Preprint, prepared by *Jiahao Long*. (通讯)
@@ -35,6 +33,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 
 ## Publications
+**<span style="color:green;">[2025]</span>**
+-  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. 
+
 
 **<span style="color:green;">[2024]</span>**
 -  Mingliang Cui, Youqing Wang, **Jipeng Guo**, Tongze Hou, and Xin Ma*. "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit", _**IEEE Transactions on Control Systems Technology**_, 2024. 
