@@ -36,7 +36,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2025]</span>**
--  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. 
+-  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. (Doi: 10.1109/TNNLS.2025.3545435)
 
 
 **<span style="color:green;">[2024]</span>**
