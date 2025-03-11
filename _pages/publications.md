@@ -15,7 +15,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2024. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- Contrastive Graph Clustering Network with Hybrid-Collaborative Augmentations and Hard Sample Adaptive-Differential Awareness, 2024. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+- Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering, 2024. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
 
 - Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯)
 
