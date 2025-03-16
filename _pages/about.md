@@ -20,6 +20,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ACM MM2025. (March 2025)
+  
 * **<span style="color:red;">[Paper:]</span>** Our paper "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering" is now accepted in _**IEEE Transactions on Neural Networks and Learning System**_. (February 2025)
 
 * **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for IJCAI2025. (December 2024)
