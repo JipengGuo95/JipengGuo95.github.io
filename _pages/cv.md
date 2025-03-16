@@ -21,6 +21,7 @@ redirect_from:
 - 计算机科学
 
 ## Reviewer for Conferences
+- The 33rd ACM International Conference on Multimedia ([ACM MM](https://acmmm2025.org/)) 2025
 - The 34th International Joint Conference on Artificial Intelligence ([IJCAI](https://2025.ijcai.org/)) 2025
 - The Forty-Second International Conference on Machine Learning ([ICML](https://icml.cc/)) 2025
 - The Thirteenth International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
