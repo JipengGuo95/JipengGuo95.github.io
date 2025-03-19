@@ -36,7 +36,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2025]</span>**
 -  Tianchuan Yang, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Man-Sheng Chen, Shuping Dang, Haiqiang Chen. "Triplets-based Large-scale Multi-view Spectral Clustering",_**Information Fusion**_, 2025. [[Code]](https://github.com/ytccyw/TLMSC)
 
--  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. (Doi: 10.1109/TNNLS.2025.3545435)
+-  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. [[PDF]](https://ieeexplore.ieee.org/document/10931176)
 
 
 **<span style="color:green;">[2024]</span>**
