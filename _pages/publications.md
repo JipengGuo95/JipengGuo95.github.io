@@ -23,10 +23,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning, 2024. Under review, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
-- FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes, 2024. Major Revision, prepared by *Tengxiao Yin*. (通讯)
-
-- Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis, 2024. Under review, prepared by *Tengxiao Yin*. (通讯)
-
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
 
 - Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
@@ -36,6 +32,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2025]</span>**
+
+-  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025. [[Code]](https://github.com/SoarYin/FIGNN.git)
+
+-  Tengxiao Yin, Yuchen Wang, Yuhan Li, Mingjia Liu, **Jipeng Guo***, Wouqing Wang. "Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis", _**In Proceedings of the Youth Academie Annual Conference of Chinese (YAC)**_, 2025.
+
 -  Tianchuan Yang, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Man-Sheng Chen, Shuping Dang, Haiqiang Chen. "Triplets-based Large-scale Multi-view Spectral Clustering",_**Information Fusion**_, 2025. [[PDF]](https://doi.org/10.1016/j.inffus.2025.103134) [[Code]](https://github.com/ytccyw/TLMSC)
 
 -  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_, 2025. [[PDF]](https://ieeexplore.ieee.org/document/10931176)
