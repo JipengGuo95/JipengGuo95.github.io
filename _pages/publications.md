@@ -25,7 +25,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
 
-- Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
+- Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
