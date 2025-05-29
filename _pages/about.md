@@ -20,6 +20,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning" is now accepted in _**IEEE/CAA Journal of Automatica Sinica**_. (May 2025)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes" is now accepted in _**IEEE Transactions on Instrumentation and Measurement**_. (May 2025)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Triplets-based Large-scale Multi-view Spectral Clustering" is now accepted in _**Information Fusion**_. (March 2025)
