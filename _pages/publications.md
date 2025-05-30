@@ -13,17 +13,19 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
-- Dual-level Noise Augmentation for Contrastive Graph Clustering, 2025, Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+- Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯)
 
-- From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025, Preprint, prepared by *Yi Liu*. (通讯)
+- Dual-level Noise Augmentation for Contrastive Graph Clustering, 2025. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
 
-- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025, Preprint, prepared by *Yan Pan*. (通讯)
+- From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu*. (通讯)
 
-- Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2024. Preprint, prepared by *Jiahao Long*. (通讯)
+- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
-- Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering, 2024. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+- Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global, 2024. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL)
+- Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering, 2025. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+
+- ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL)
 
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
 
