@@ -13,9 +13,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
+- Dual-level Noise Augmentation for Contrastive Graph Clustering, 2025, Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+
 - From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025, Preprint, prepared by *Yi Liu*. (通讯)
 
-- Cross-mode Reconstruction and Diverse Low-rank Representation Learning for Multi-mode Process Monitoring, 2025, Preprint, prepared by *Yan Pan*. (通讯)
+- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025, Preprint, prepared by *Yan Pan*. (通讯)
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2024. Preprint, prepared by *Jiahao Long*. (通讯)
 
