@@ -46,9 +46,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 -  Shuchang Guo (本科生), Wenxuan Chen (本科生), Junbin Gao, Shilong Xu, Yuhan Li, Mingjia Liu, **Jipeng Guo***, Youqing Wang. "Decouple then Fusion: Flexible Graph Representation Learning with Cross-frequency Diversity", _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2025. (CCF-C) 
 
--  Tengxiao Yin, Yuchen Wang, Yuhan Li, Mingjia Liu, **Jipeng Guo***, Wouqing Wang. "Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis", _**In Proceedings of the Youth Academie Annual Conference of Chinese (YAC)**_, 2025.
+-  Tengxiao Yin, Yuchen Wang (本科生), Yuhan Li, Mingjia Liu, **Jipeng Guo***, Wouqing Wang. "Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis", _**In Proceedings of the Youth Academie Annual Conference of Chinese (YAC)**_, 2025.
 
--  Yan Pan, **Jipeng Guo**, Haopeng Yang, Yuchen Wang, Wenxuan Chen, Youqing Wang. "Joint Low-rank and Sparse Double Dictionary Learning for Industrial Process Monitoring", _**In Proceedings of The 2025 UNIfied Conference on Advances in Maintenance Engineering, Damage Assessment and Machinery Diagnostics**_, 2025.
+-  Yan Pan, **Jipeng Guo**, Haopeng Yang (本科生), Yuchen Wang (本科生), Wenxuan Chen (本科生), Youqing Wang. "Joint Low-rank and Sparse Double Dictionary Learning for Industrial Process Monitoring", _**In Proceedings of The 2025 UNIfied Conference on Advances in Maintenance Engineering, Damage Assessment and Machinery Diagnostics**_, 2025.
 
 
 **<span style="color:green;">[2024]</span>**
