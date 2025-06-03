@@ -40,7 +40,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2025]</span>**
 - Youqing Wang, [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Mingliang Cui, Junbin Gao, Li Liang, **Jipeng Guo***. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/WGCN.git) (Doi:10.1109/JAS.2025.125564)
 
--  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025. [[Code]](https://github.com/SoarYin/FIGNN.git) (Doi:10.1109/TIM.2025.3575985)
+-  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025. [[PDF]](https://ieeexplore.ieee.org/document/11021477) [[Code]](https://github.com/SoarYin/FIGNN.git)
 
 -  Tianchuan Yang, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Man-Sheng Chen, Shuping Dang, Haiqiang Chen. "Triplets-based Large-scale Multi-view Spectral Clustering",_**Information Fusion**_, 2025. [[PDF]](https://doi.org/10.1016/j.inffus.2025.103134) [[Code]](https://github.com/ytccyw/TLMSC)
 
