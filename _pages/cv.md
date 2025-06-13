@@ -14,7 +14,9 @@ redirect_from:
 
 ## Reviewer for Journals
 - IEEE Transactions on Cybernetics
+- IEEE Transactions on Neural Networks and Learning System 
 - IEEE Transactions on Circuits and Systems for Video Technology
+- Pattern Recognition
 - Expert Systems With Applications
 - Information Sciences
 - Intelligent Data Analysis
