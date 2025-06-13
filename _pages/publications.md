@@ -17,7 +17,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯)
 
-- Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning, 2025. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)
+- Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning, 2025. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯)  [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
 - From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
 
