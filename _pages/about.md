@@ -20,7 +20,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:green;">[Congratulation:]</span>** Tianxiang Zhao (Master student) and Shuchang Guo (Undergraduate) 入选**中国自动化学会“大学生英才计划”**， (July 2025)
+* **<span style="color:green;">[Congratulation:]</span>** Tianxiang Zhao (Master student) and Shuchang Guo (Undergraduate) 入选**中国自动化学会“大学生英才计划”**. (July 2025)
   
 * **<span style="color:green;">[Congratulation:]</span>** 获批中国博士后科学基金**第18批特别资助**. (June 2025)
 
