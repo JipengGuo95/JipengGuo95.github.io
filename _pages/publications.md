@@ -13,6 +13,10 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
+- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
+
+- Bridging Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
+
 - Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯)
 
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯)
