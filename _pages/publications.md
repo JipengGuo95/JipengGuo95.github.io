@@ -15,7 +15,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
 
-- Bridging Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
+- Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
 
 - Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯)
 
