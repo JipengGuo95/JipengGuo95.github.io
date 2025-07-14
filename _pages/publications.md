@@ -50,6 +50,16 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 -  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_,  2025, 36(6): 10213-10227. [[PDF]](https://ieeexplore.ieee.org/document/10931176)
 
+-  Mingliang Cui, Youqing Wang, **Jipeng Guo**, Tongze Hou, and Xin Ma*. "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit", _**IEEE Transactions on Control Systems Technology**_, 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/11032100)
+
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2025, 74: 3506413. [[PDF]](https://ieeexplore.ieee.org/document/10836197)
+  
+-  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2025, 51(4): 27-36. [[PDF]](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0070235) (CCF T2类)
+
+-  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2025, 11(4): 1813-1827. [[PDF]](https://xplorestaging.ieee.org/document/10740335) [[Code]](https://github.com/JinluWang1002/DGNN)
+
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring", _**IEEE Transactions on Control Systems Technology**_, 2025, 33(2): 512-525. [[PDF]](https://ieeexplore.ieee.org/document/10737648)
+
 -  Shuchang Guo (本科生), Wenxuan Chen (本科生), Junbin Gao, Shilong Xu, Yuhan Li, Mingjia Liu, **Jipeng Guo***, Youqing Wang. "Decouple then Fusion: Flexible Graph Representation Learning with Cross-frequency Diversity", _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2025. (CCF-C) 
 
 -  Tengxiao Yin, Yuchen Wang (本科生), Yuhan Li, Mingjia Liu, **Jipeng Guo***, Wouqing Wang. "Fuzzy Inference and Temporal Logic based Reliable Graph Neural Network for Industrial Fault Diagnosis", _**In Proceedings of the Youth Academie Annual Conference of Chinese (YAC)**_, 2025.
@@ -58,16 +68,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 
 **<span style="color:green;">[2024]</span>**
--  Mingliang Cui, Youqing Wang, **Jipeng Guo**, Tongze Hou, and Xin Ma*. "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit", _**IEEE Transactions on Control Systems Technology**_, 2024. 
-
--  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis", _**IEEE Transactions on Instrumentation and Measurement**_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10836197)
-  
--  **郭继鹏**, 徐世龙, 龙家豪, 王友清*, 孙艳丰, 尹宝才. "基于双跨视相关性检测的多视子空间聚类", _**计算机工程**_, 2024. (CCF T2类)
-
--  Jinlu Wang, **Jipeng Guo***, Yanfeng Sun, Junbin Gao, Shaofan Wang, Yachao Yang, and Baocai Yin. "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations",  _**IEEE Transactions on Big Data**_, 2024. [[PDF]](https://xplorestaging.ieee.org/document/10740335) [[Code]](https://github.com/JinluWang1002/DGNN)
-
--  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring", _**IEEE Transactions on Control Systems Technology**_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10737648)
-
 -  **Jipeng Guo**, Tengxiao Yin, Tianxiang Zhao, Jiayi Zhao, Yanfeng Sun, Junbin Gao, and Youqing Wang*. "Improved attributed graph clustering with representation and structure augmentation", _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2024. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10650771)
 
 - Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute", _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
