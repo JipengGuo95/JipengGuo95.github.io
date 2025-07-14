@@ -46,7 +46,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 -  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025, 74: 3542316. [[PDF]](https://ieeexplore.ieee.org/document/11021477) [[Code]](https://github.com/SoarYin/FIGNN.git)
 
--  Tianchuan Yang, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Man-Sheng Chen, Shuping Dang, Haiqiang Chen. "Triplets-based Large-scale Multi-view Spectral Clustering",_**Information Fusion**_, 2025. [[PDF]](https://doi.org/10.1016/j.inffus.2025.103134) [[Code]](https://github.com/ytccyw/TLMSC)
+-  Tianchuan Yang, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Man-Sheng Chen, Shuping Dang, Haiqiang Chen. "Triplets-based Large-scale Multi-view Spectral Clustering",_**Information Fusion**_, 2025, 121: 103134. [[PDF]](https://doi.org/10.1016/j.inffus.2025.103134) [[Code]](https://github.com/ytccyw/TLMSC)
 
 -  **Jipeng Guo**, Yanfeng Sun, Xin Ma, Junbin Gao, Yongli Hu, Youqing Wang*, and Baocai Yin. "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering", _**IEEE Transactions on Neural Networks and Learning System**_,  2025, 36(6): 10213-10227. [[PDF]](https://ieeexplore.ieee.org/document/10931176)
 
