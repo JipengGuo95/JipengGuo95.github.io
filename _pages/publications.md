@@ -12,6 +12,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Preprints
 
+- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan* . (通讯)
+
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
 
 - Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
