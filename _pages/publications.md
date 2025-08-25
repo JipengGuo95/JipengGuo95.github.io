@@ -11,7 +11,6 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2024. Under review. (一作)
 
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
 
@@ -38,6 +37,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
+
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *Jinlu Wang*. 
 
 
 ## Publications
