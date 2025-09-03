@@ -25,11 +25,11 @@ redirect_from:
 - 计算机科学
 
 ## Reviewer for Conferences
-- The 40th Annual AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/)) 2026
-- The 39th Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2025
-- The 33rd ACM International Conference on Multimedia ([ACM MM](https://acmmm2025.org/)) 2025
-- The 34th International Joint Conference on Artificial Intelligence ([IJCAI](https://2025.ijcai.org/)) 2025
-- The Forty-Second International Conference on Machine Learning ([ICML](https://icml.cc/)) 2025
-- The Thirteenth International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
+- Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, [2026](https://aaai.org/conference/aaai/aaai-26/)
+- Annual Conference on Neural Information Processing Systems (NeurIPS) [2025](https://neurips.cc/)
+- TACM International Conference on Multimedia ([ACM MM](https://acmmm2025.org/)) 2025
+- International Joint Conference on Artificial Intelligence ([IJCAI](https://2025.ijcai.org/)) 2025
+- International Conference on Machine Learning ([ICML](https://icml.cc/)) 2025
+- International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
 - International Joint Conference on Neural Networks 2025 ([IJCNN](https://2025.ijcnn.org/))
-- International Conference on Pattern Recognition 2024
+- International Conference on Pattern Recognition 2023, 2024, 2025
