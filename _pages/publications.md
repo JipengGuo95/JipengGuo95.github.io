@@ -12,6 +12,10 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Preprints
 
+- Fractional-order Graph Neural Diffusion for Cross-frequency Alignment Contrastive Learning, 2025. Preprint, prepared by *Shilong Xu* . (通讯)
+
+- Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2025. Preprint, prepared by *Bin Xiao* . (通讯)
+
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan* . (通讯)
 
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
