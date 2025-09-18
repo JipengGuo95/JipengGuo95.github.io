@@ -34,8 +34,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering, 2025. Preprint, prepared by *[Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
-
 - ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL)
 
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
@@ -49,6 +47,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2025]</span>**
+-  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+
+
 - Youqing Wang, [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Mingliang Cui, Junbin Gao, Li Liang, **Jipeng Guo***. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/WGCN.git) (Doi:10.1109/JAS.2025.125564)
 
 -  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025, 74: 3542316. [[PDF]](https://ieeexplore.ieee.org/document/11021477) [[Code]](https://github.com/SoarYin/FIGNN.git)
