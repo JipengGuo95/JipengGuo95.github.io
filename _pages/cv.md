@@ -11,7 +11,7 @@ redirect_from:
 
 ## Reports
 - 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, 分会场口头汇报, 贵阳. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
-- 无监督图对比表示学习方法及工业应用, 2025 CSIG青年科学家会议-学术服务论坛：计算机视觉, 青岛. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
+- 无监督图对比表示学习方法及工业应用, 2025 CSIG青年科学家会议-学术服务论坛: 计算机视觉, 青岛. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
 - 炼化企业控制阀监测与智能诊断工业软件, 国家能源集团智慧化工技术论坛, 天津, 2025. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
 ## Reviewer for Journals
 - IEEE Transactions on Industrial Informatics
