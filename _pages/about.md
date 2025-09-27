@@ -22,7 +22,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:green;">[Congratulation:]</span>** I will serve as a program committee (程序委员会委员) for COCOA2025. (Sep 2025)
 
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2026. (Sep 2025)
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR2026 and AAAI2026. (2025)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning" is now accepted in _**Pattern Recognition**_. (Sep 2025)
 
