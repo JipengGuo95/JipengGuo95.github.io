@@ -20,6 +20,10 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a program committee (程序委员会委员) for COCOA2025. (Sep 2025)
+
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2026. (Sep 2025)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning" is now accepted in _**Pattern Recognition**_. (Sep 2025)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering" is now accepted in _**NeurIPS**_. (Sep 2025)
@@ -55,8 +59,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 * **<span style="color:red;">[Paper:]</span>** Our paper "DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations" is now accepted in _**IEEE Transactions on Big Data**_. (Octorber 2024)
 
 *   **<span style="color:red;">[Paper:]</span>** Our paper "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring" is now accepted in  _**IEEE Transactions on Control Systems Technology**_. (October 2024)
-  
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
+
   
 
 ## Representative Publications
