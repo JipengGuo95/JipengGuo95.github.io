@@ -37,4 +37,4 @@ redirect_from:
 - International Conference on Machine Learning (ICML) [2025](https://icml.cc/)
 - International Conference on Learning Representations (ICLR) 2025, [2026](https://iclr.cc/Conferences/2026)
 - International Joint Conference on Neural Networks (IJCNN) 2024, [2025](https://2025.ijcnn.org/)
-- International Conference on Pattern Recognition 2023, 2024, 2025
+- International Conference on Pattern Recognition 2022, 2024
