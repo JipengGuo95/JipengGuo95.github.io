@@ -20,6 +20,7 @@ redirect_from:
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Neural Networks and Learning System 
 - IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Big Data
 - IEEE/CAA Journal of Automatica Sinica (JAS)
 - Pattern Recognition
 - Expert Systems With Applications
