@@ -12,7 +12,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Preprints
 
-- 基于分数阶图神经扩散的跨频域对齐对比学习方法, 2025. Preprint, prepared by *Shilong Xu* . (通讯)(Major Revision)
+- 基于分数阶图神经扩散的跨频域对齐对比学习方法, 2025. Preprint, prepared by *Shilong Xu* . (通讯) (Major Revision)
 
 - Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao* . (通讯)
 - Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2025. Preprint, prepared by *Bin Xiao* . (通讯)
@@ -25,7 +25,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯)
 
-- Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯)(Major Revision)
+- Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
 - From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
 
@@ -33,11 +33,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL)(Major Revision)
+- ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL) (Major Revision)
 
-- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2024. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. （三作）
+- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
-- Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作)(Major Revision)
+- Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作) (Major Revision)
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
