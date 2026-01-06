@@ -12,18 +12,21 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Preprints
 
+- Discriminative Representation Learning via Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
+
 - 基于分数阶图神经扩散的跨频域对齐对比学习方法, 2025. Preprint, prepared by *Shilong Xu* . (通讯) (Major Revision)
 
 - Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao* . (通讯)
+
 - Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2025. Preprint, prepared by *Bin Xiao* . (通讯)
 
-- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan* . (通讯)
+- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
 
 - Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
 
-- Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯)
+- Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯) (Minor Revision)
 
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
@@ -35,13 +38,13 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL) (Major Revision)
 
-- Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
+- Decoupling then Soft Association for Graph Neural Networks: Balancing Topology and Attributes Interference, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
 - Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作) (Major Revision)
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *Jinlu Wang*. 
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯） 
 
 
 ## Publications
