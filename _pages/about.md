@@ -67,7 +67,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 ## Representative Publications
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering", _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
 
-- [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. ( **CCF-A**) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+- [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. (**CCF-A**) [[PDF]](https://openreview.net/forum?id=fb7maZToPl) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
  
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization", _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
 
