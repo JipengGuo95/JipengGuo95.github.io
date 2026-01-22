@@ -14,8 +14,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Discriminative Representation Learning via Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
-- 基于分数阶图神经扩散的跨频域对齐对比学习方法, 2025. Preprint, prepared by *Shilong Xu* . (通讯) (Major Revision)
-
 - Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao* . (通讯)
 
 - Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2025. Preprint, prepared by *Bin Xiao* . (通讯)
@@ -25,8 +23,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
 
 - Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
-
-- Adaptive Sparse Graph for Multi-view Clustering, 2025. Preprint, prepared by *Haoyan Yang*. (通讯) (Minor Revision)
 
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
@@ -48,6 +44,12 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 
 ## Publications
+**<span style="color:green;">[2026]</span>**
+
+- Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
+
+- 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A)
+
 **<span style="color:green;">[2025]</span>**
 - [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
