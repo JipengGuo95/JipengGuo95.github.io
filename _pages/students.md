@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<span style="color: #FF9700">【X】</span>表示已发表论文
+[学生]+表示Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm); <span style="color: #FF9700">【X】</span>表示已发表论文
 
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
@@ -16,7 +16,7 @@ redirect_from:
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
 - 曹曼, 研究方向: 图模型与生物信息计算;
-- 杨皓鹏, 研究方向: 深度学习及其工业过程监测应用; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
+- 杨皓鹏, 研究方向: 深度学习及其工业过程监测应用; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【《控制工程》】
 - 王宇晨, 研究方向: 图异常检测/时序图分析; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
 - 李兴凯, 研究方向: 时序异常检测; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
 
@@ -27,9 +27,9 @@ redirect_from:
 - 曹雨, 研究方向: 不完备多模态聚类; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
   
 **<span style="color:green;">[2023]</span>**
-- 龙家豪, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
-- 徐世龙, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
-- 肖斌, 研究方向: 深度多模态聚类;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
+- 龙家豪, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【CAC2024】
+- 徐世龙, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金】</span>
+- 肖斌, 研究方向: 深度多模态聚类;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【COCOA2024】
 ## 在读本科生:
 郭书畅, (IJCNN2025), 陈文轩 (IJCNN2025, UNIfied 2025)
 
