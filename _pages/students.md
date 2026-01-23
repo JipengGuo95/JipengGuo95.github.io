@@ -22,14 +22,14 @@ redirect_from:
 
 **<span style="color:green;">[2024]</span>**
 - 许翔, 研究方向: 大规模多模态聚类;
-- [赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), 研究方向: 深度图聚类/大模型;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), </span><span style="color: #FF0000">【国家奖学金】
+- [赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), 研究方向: 深度图聚类/大模型;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【NeurIPS, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
 - 潘岩, 研究方向: 开放环境下多工况过程监测;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
 - 曹雨, 研究方向: 不完备多模态聚类; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
   
 **<span style="color:green;">[2023]</span>**
-- 龙家豪, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
-- 徐世龙, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
-- 肖斌, 研究方向: 深度多模态聚类;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
+- 龙家豪, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
+- 徐世龙, 研究方向: 异配图表示学习;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
+- 肖斌, 研究方向: 深度多模态聚类;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
 ## 在读本科生:
 郭书畅, (IJCNN2025), 陈文轩 (IJCNN2025, UNIfied 2025)
 
