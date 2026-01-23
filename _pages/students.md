@@ -11,7 +11,7 @@ redirect_from:
 
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
-Mengyuan Xin, 研究方向: 人工智能模型安全与可信；
+辛梦媛, Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), 研究方向: 人工智能模型安全与可信；
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
 Mengyuan Xin, 研究方向: 人工智能模型安全与可信；
