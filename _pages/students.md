@@ -13,7 +13,7 @@ redirect_from:
 
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
-- [辛梦媛]+, 研究方向: 人工智能模型安全与可信;
+[辛梦媛]+, 研究方向: 人工智能模型安全与可信;
 
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
