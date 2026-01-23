@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[学生]+表示Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm); <span style="color: #FF9700">【X】</span>表示已发表论文
+[学生]+表示与[Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)合作指导; <span style="color: #FF9700">【X】</span>表示已发表论文
 
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
-辛梦媛, 研究方向: 人工智能模型安全与可信, Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
+[辛梦媛]+, 研究方向: 人工智能模型安全与可信, Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
 - 曹曼, 研究方向: 图模型与生物信息计算;
