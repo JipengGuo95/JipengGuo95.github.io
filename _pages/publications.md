@@ -23,7 +23,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
-- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作) (Major Revision)
+- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作) (Major Revision) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
 - Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
 
@@ -51,7 +51,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
-- 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A)
+- 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A) [[Code]](https://github.com/beicheng101/CfACL)
 
 **<span style="color:green;">[2025]</span>**
 - [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
@@ -93,9 +93,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Qi Zhang, Yanfeng Sun*, **Jipeng Guo**, Shaofan Wang, Jinghua Li, Junbin Gao, and Baocai Yin. "AUTOFGNN: A Framework for Extracting All Frequency Information from Large-scale Graphs", _**In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**_, 2024. (CCF-B) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10448287)
 
-- Jiahao Long, Youqing Wang*, **Jipeng Guo**, Shilong Xu, and Li Liang. "Topological-Semantic Structure and Attribute Representations Decoupling Learning for Improved Graph Neural Networks", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 2523-2528. [[PDF]](https://ieeexplore.ieee.org/document/10865498)
+- Jiahao Long, Youqing Wang*, **Jipeng Guo**, Shilong Xu, and Li Liang. "Topological-Semantic Structure and Attribute Representations Decoupling Learning for Improved Graph Neural Networks", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 2523-2528. [[PDF]](https://ieeexplore.ieee.org/document/10865498) [[Code]](https://github.com/dhuash/IGNN-RDL)
 
-- Shilong Xu, **Jipeng Guo**, Jiahao Long, Mingliang Cui, and Youqing Wang*. "High-Low Frequency Filtering aware Graph Neural Networks with Representation Decoupling Learning", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 4005-4010. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10864603)
+- Shilong Xu, **Jipeng Guo**, Jiahao Long, Mingliang Cui, and Youqing Wang*. "High-Low Frequency Filtering aware Graph Neural Networks with Representation Decoupling Learning", _**In Proceedings of Chinese Automation Congress (CAC)**_, 2024, 4005-4010. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10864603) [[Code]](https://github.com/beicheng101/HLFF-GNN.git)
 
 - Bin Xiao, **Jipeng Guo**, Juntao Hu, Yifan Dong, and Youqing Wang*. "Comprehensive Multi-view Subspace Clustering with Global-and-Local Representation Learning", _**In Proceedings of The 17th Annual International Conference on Combinatorial Optimization and Applications (COCOA)**_, 2024. (Accepted)
 
