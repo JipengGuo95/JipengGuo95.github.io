@@ -11,6 +11,9 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
+- Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion, 2026. Preprint, prepared by *Tianxiang Zhao* . (通讯)
+
+- Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion, 2026. Preprint, prepared by *Jiahao Long*. (通讯)
 
 - Discriminative Representation Learning via Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
@@ -20,7 +23,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
-- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作)
+- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作) (Major Revision)
 
 - Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
 
