@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<span style="color: #FF9700">【X】</span>表示已发表论文
 
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
@@ -21,7 +22,7 @@ redirect_from:
 
 **<span style="color:green;">[2024]</span>**
 - 许翔, 研究方向: 大规模多模态聚类;
-- [赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), 研究方向: 深度图聚类/大模型;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
+- [赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), 研究方向: 深度图聚类/大模型;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), </span><span style="color: #FF0000">【国家奖学金】
 - 潘岩, 研究方向: 开放环境下多工况过程监测;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
 - 曹雨, 研究方向: 不完备多模态聚类; Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)
   
@@ -34,7 +35,7 @@ redirect_from:
 
 ## 毕业生:
 **<span style="color:green;">[2022级]</span>**
-- 尹腾霄, 研究方向: 图神经网络与故障诊断;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), IEEE TIM
+- 尹腾霄, 研究方向: 图神经网络与故障诊断;  Co-supervised with [Youqing Wang](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm), <span style="color: #FF9700">【IEEE TIM, YAC】
 
 ## <i><span style="color:red;">Welcome</span></i>  
 Welcome students interested in my researches to join us. Recruiting 1 master's student and 1-2 undergraduate students annually.
