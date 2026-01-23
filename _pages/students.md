@@ -36,7 +36,7 @@ redirect_from:
 
 ## 毕业生:
 **<span style="color:green;">[2022级]</span>**
-- 尹腾霄, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC】
+- 尹腾霄, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
 
 ## <i><span style="color:red;">Welcome</span></i>  
 Welcome students interested in my researches to join us. Recruiting 1 master's student and 1-2 undergraduate students annually.
