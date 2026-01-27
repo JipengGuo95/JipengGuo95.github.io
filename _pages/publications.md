@@ -52,9 +52,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A) [[Code]](https://github.com/beicheng101/CfACL)
 
-**<span style="color:green;">[2025]</span>**
-- [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
+- [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026, 172: 112463. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
+**<span style="color:green;">[2025]</span>**
 -  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
 
 
