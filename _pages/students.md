@@ -35,7 +35,7 @@ redirect_from:
 
 [潘岩]+, 研究方向: 开放环境下多工况过程监测;
 
-[曹雨]+, 研究方向: 不完备多模态聚类;
+[曹雨]+, 研究方向: 不完备多模态聚类; <span style="color: #FF9700">【ICLR2026】
   
 **<span style="color:green;">[2023]</span>**
 
