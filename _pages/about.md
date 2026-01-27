@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 # <i><span style="color:red;">News</span></i>
 
+* **<span style="color:red;">[Paper:]</span>** Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" is now accepted in _**ICLR2026**_. (Jan 2026)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "Adaptive Sparse Graph for Multi-view Clustering" is now accepted in _**Digital Signal Processing**_. (Jan 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "基于分数阶图神经扩散的跨频域对齐对比学习方法" is now accepted in _**ACTA AUTOMATICA SINICA**_. (Jan 2026)
