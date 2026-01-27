@@ -25,8 +25,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作) (Major Revision) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
-- Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering, 2025. Preprint, prepared by *Yu Cao*. (通讯)
-
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
 - From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
@@ -48,6 +46,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2026]</span>**
+- Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026.
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
