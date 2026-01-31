@@ -29,11 +29,11 @@ redirect_from:
 
 **<span style="color:green;">[2024]</span>**
 
-许翔, 研究方向: 大规模多模态聚类;
+许翔, 研究方向: 大规模多模态聚类; <span style="color: #FF9700">【PR大修】
 
 [[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
 
-[潘岩]+, 研究方向: 开放环境下多工况过程监测;
+[潘岩]+, 研究方向: 开放环境下多工况过程监测; <span style="color: #FF9700">【UNIfied2025】
 
 [曹雨]+, 研究方向: 不完备多模态聚类; <span style="color: #FF9700">【ICLR2026】
   
