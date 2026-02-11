@@ -20,6 +20,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup" is now accepted in _**IEEE Transactions on Computational Social Systems**_. (Feb 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" is now accepted in _**ICLR2026**_. (Jan 2026)
 
