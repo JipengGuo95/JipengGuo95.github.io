@@ -33,8 +33,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
 
-- ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) [[Code]](https://github.com/JinluWang1002/ComGRL) (Major Revision)
-
 - Decoupling then Soft Association for Graph Neural Networks: Balancing Topology and Attributes Interference, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
 - Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作) (Major Revision)
@@ -46,6 +44,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2026]</span>**
+
+- Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026. [[Code]](https://github.com/JinluWang1002/ComGRL)
+
 - Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026.
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
