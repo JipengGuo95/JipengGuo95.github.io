@@ -16,6 +16,10 @@ redirect_from:
 
 [辛梦媛]+, 研究方向: 人工智能模型安全与可信;
 
+**<span style="color:green;">[2024]</span>** 
+
+王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD/TCSS】,
+
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
 
