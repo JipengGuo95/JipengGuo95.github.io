@@ -52,7 +52,7 @@ redirect_from:
 [肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
 
 ## 在读本科生:
-郭书畅, (IJCNN2025), 陈文轩 (IJCNN2025, UNIfied 2025)
+郭书畅 (IJCNN2025), 陈文轩 (IJCNN2025, UNIfied 2025)
 
 ## 毕业生:
 **<span style="color:green;">[2022级]</span>**
