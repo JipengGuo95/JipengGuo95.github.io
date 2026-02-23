@@ -36,9 +36,9 @@ redirect_from:
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), [2026](https://pakdd2026.org/)
 - Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, [2026](https://aaai.org/conference/aaai/aaai-26/)
 - Annual Conference on Neural Information Processing Systems (NeurIPS) [2025](https://neurips.cc/)
-- ACM International Conference on Multimedia (ACM MM) [2025](https://acmmm2025.org/)
+- ACM International Conference on Multimedia (ACM MM) 2025, [2026](https://2026.acmmm.org/)
 - International Joint Conference on Artificial Intelligence (IJCAI) 2025, [2026](https://2026.ijcai.org/)
 - International Conference on Machine Learning (ICML) 2025, [2026](https://icml.cc/)
 - International Conference on Learning Representations (ICLR) 2025, [2026](https://iclr.cc/Conferences/2026)
-- International Joint Conference on Neural Networks (IJCNN) 2024, [2025](https://2025.ijcnn.org/)
-- International Conference on Pattern Recognition 2022, 2024
+- International Joint Conference on Neural Networks (IJCNN) 2024, 2025, [2026](https://attend.ieee.org/wcci-2026/)
+- International Conference on Pattern Recognition 2022, 2024, [2026](https://icpr2026.org/)
