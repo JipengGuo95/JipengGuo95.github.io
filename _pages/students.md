@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# 🔥 2026年硕士研究生名额充足，预计招收2-3名，欢迎联系！！！
+# 📢 2026年硕士研究生名额充足，预计招收2-3名，欢迎联系！！！
 
 [学生]+表示与[王友清](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm)教授合作指导; 
 <span style="color: #FF9700">【X】</span>表示已发表论文
