@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2026年预计招收2-3名硕士研究生，<i><span style="color:red;">欢迎联系!!!</span></i> 
+# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2026年预计招收2-3名硕士研究生，<i><span style="color:red;">欢迎联系! ! !</span></i> 
 课题组科研氛围浓厚、软硬件支撑完备，根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人综合素质。有兴趣者可以发邮件垂询送至guojipeng@buct.edu.cn.
 
 # 学生培养:
@@ -60,6 +60,3 @@ redirect_from:
 **<span style="color:green;">[2022级]</span>**
 
 [尹腾霄]+, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
-
-## <i><span style="color:red;">Welcome</span></i>  
-Welcome students interested in my researches to join us. Recruiting 1 master's student and 1-2 undergraduate students annually.
