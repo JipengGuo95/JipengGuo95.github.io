@@ -20,19 +20,17 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering" is now accepted in _**Pattern Recognition**_. (Feb 2026)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup" is now accepted in _**IEEE Transactions on Computational Social Systems**_. (Feb 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" is now accepted in _**ICLR2026**_. (Jan 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Adaptive Sparse Graph for Multi-view Clustering" is now accepted in _**Digital Signal Processing**_. (Jan 2026)
 
-* **<span style="color:red;">[Paper:]</span>** Our paper "基于分数阶图神经扩散的跨频域对齐对比学习方法" is now accepted in _**ACTA AUTOMATICA SINICA**_. (Jan 2026)
+* **<span style="color:red;">[Paper:]</span>** Our paper "基于分数阶图神经扩散的跨频域对齐对比学习方法" is now accepted in _**自动化学报 (CCF中文期刊 T1类)**_. (Jan 2026)
 
 * **<span style="color:green;">[Congratulation:]</span>** Shilong Xu (Master student) and Tianxiang Zhao (Master student) 获**研究生国家奖学金”**. (Oct 2025)
-  
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a program committee (程序委员会委员) for COCOA2025. (Sep 2025)
-
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR2026 and AAAI2026. (2025)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning" is now accepted in _**Pattern Recognition**_. (Sep 2025)
 
@@ -46,23 +44,13 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes" is now accepted in _**IEEE Transactions on Instrumentation and Measurement**_. (May 2025)
 
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for NIPS2025 and ECAI2025. (April 2025)
-
 * **<span style="color:red;">[Paper:]</span>** Our paper "Triplets-based Large-scale Multi-view Spectral Clustering" is now accepted in _**Information Fusion**_. (March 2025)
   
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ACM MM2025. (March 2025)
-  
 * **<span style="color:red;">[Paper:]</span>** Our paper "Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering" is now accepted in _**IEEE Transactions on Neural Networks and Learning System**_. (February 2025)
-
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for IJCAI2025. (December 2024)
  
 * **<span style="color:red;">[Paper:]</span>** Our paper "A Dynamic Process Modeling Method based on Bipartite Graph and Recursive Monitoring for Catalytic Cracking Unit" is now conditionally accepted in _**IEEE Transactions on Control Systems Technology**_. (December 2024)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "Optimal Sparse Principal Component Analysis with A Varying Hyperparameter for Industrial Fault Diagnosis" is now accepted in _**IEEE Transactions on Instrumentation and Measurement**_. (December 2024)
-  
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICML2025. (December 2024)
-
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for IJCNN 2025. (November 2024)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "基于双跨视相关性检测的多视子空间聚类" is now accepted in _**计算机工程 (CCF中文期刊 T2类)**_. (November 2024)
 
