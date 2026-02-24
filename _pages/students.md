@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2026年预计招收2-3名硕士研究生，欢迎联系！！！
+# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2026年预计招收2-3名硕士研究生，<i><span style="color:red;">欢迎联系</span></i> ！！！
 课题组科研氛围浓厚、软硬件支撑完备，根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人综合素质。有兴趣者可以发邮件垂询送至guojipeng@buct.edu.cn
 
 # 学生培养:
