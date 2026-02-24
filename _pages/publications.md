@@ -25,8 +25,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
-- Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering, 2025. Preprint, prepared by *Xiang Xu* and *Jipeng Guo*. (一作) (Major Revision) [[Code]](https://github.com/XX106222/AGSCR-MVC)
-
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
 - From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
@@ -46,6 +44,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 **<span style="color:green;">[2026]</span>**
+- **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026. [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
 - Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026. [[Code]](https://github.com/JinluWang1002/ComGRL)
 
