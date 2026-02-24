@@ -42,7 +42,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯） 
 
 
-## Publications
+## Publications (* indicating the corresponding author)
+
 **<span style="color:green;">[2026]</span>**
 - **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026. [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
