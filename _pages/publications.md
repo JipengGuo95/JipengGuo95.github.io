@@ -39,7 +39,15 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯） 
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
+
+- Joint tensor self-representation and discriminative feature extraction for multi-view clustering, 2025. Under review, prepared by Fen Xu. (三作) (Major Revision)
+
+- ParetoBoost: A Conflict-Averse Gradient Fusion Framework for Imbalanced Ensemble Learning, 2026. Under review, prepared by *[Ye Su] (https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
+
+- From Bias Decay to Variance Control: Gradient-Guided Newton Boosting, 2026. Under review, prepared by *[Ye Su] (https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
+
+- A novel ensemble learning algorithm with bagging-boosting hybrid fusion architecture: towards imbalanced classification and interpretable feature selection, 2026. Under review, prepared by *[Ye Su] (https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作, 共同通讯)
 
 
 ## Publications (* indicating the corresponding author)
