@@ -49,7 +49,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026. [[Code]](https://github.com/JinluWang1002/ComGRL)
 
-- Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026.
+- Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026. [[Code]](https://github.com/caoyu110/ARSL-IMVC)
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
