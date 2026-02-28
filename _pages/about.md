@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Associate Professor** in the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT), Beijing. And, I am currently working as a postdoctoral researcher, supervised by Prof. [Youqing Wang (王友清)](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm). 
+He is a **Associate Professor** in the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT), Beijing. And, He is also currently working as a postdoctoral researcher, supervised by Prof. [Youqing Wang (王友清)](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm). He published more than 40 papers in top journals and conferences, such as IEEE TPAMI/TIP/TNNLS/TIM/TBD/TCSS/TCST, IEEE/CAA JAS, ACM TKDD, Pattern Recognition, Neural Networks, Information Fusion, NeurIPS, ICLR, AAAI, ICASSP, and etc. 
 
 I received my PH.D degree (Control Science and Engineering) with Beijing Municipal Key Laboratory of Multimedia and Intelligent Software Technology (led by Prof. [Baocai Yin (尹宝才)](https://yanzhao.bjut.edu.cn/info/1434/11431.htm)) at Beijing University of Technology (BJUT), China, in 2023. Prof. [Yanfeng Sun (孙艳丰)](https://sist.bjut.edu.cn/info/1403/2479.htm) is my PH.D advisor. I am also co-supervised by Prof. [Junbin Gao (高俊斌)](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html) from University of Sydney.
 
@@ -15,7 +15,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 ## Main Research Interests
 - Machine Learning and Pattern Recognition
-- Multi-view/Multi-modal Representation Learning and  Clustering
+- Multi-view/Multi-modal Representation Learning and Clustering
 - Graph Representation Learning and Its Applications
 - Industrial Big Data Analysis and Fault Diagnosis
 
