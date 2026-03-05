@@ -53,7 +53,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326003432) [[Code]](https://github.com/XX106222/AGSCR-MVC)
+- **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026, 177: 113378. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326003432) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
 - Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11420259/) [[Code]](https://github.com/JinluWang1002/ComGRL)
 
