@@ -27,8 +27,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
 
-- From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
-
 - Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
@@ -53,6 +51,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Yi Liu, From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs, 2025. Preprint, prepared by *Yi Liu (本科生)*. (通讯)
+
+  
 - **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026, 177: 113378. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326003432) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
 - Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11420259/) [[Code]](https://github.com/JinluWang1002/ComGRL)
