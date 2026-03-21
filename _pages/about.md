@@ -20,6 +20,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering" and "From Local to Global: A Hybrid GCN-Transformer for Heterophilic Graph Representation Learning" are now accepted in _**IJCNN**_. (Mar 2026)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering" is now accepted in _**Pattern Recognition**_. (Feb 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup" is now accepted in _**IEEE Transactions on Computational Social Systems**_. (Feb 2026)
