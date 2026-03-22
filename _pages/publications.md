@@ -53,7 +53,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2026]</span>**
 - Yi Liu (本科生), Tianruo Liu, Tianxiang Zhao, Weijie Shi, **Jipeng Guo***, Feiyao Yu. "From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs", _**IJCNN**_, 2026. (通讯)
 
-- Tianyou Yu† (本科生), Kailin Zhang† (本科生), Jianlin Zheng† (本科生), Tianruo Liu, Tianxiang Zhao*, Haopeng Yang, **Jipeng Guo***. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026. (共同通讯, †共同一作)
+- Tianyou Yu† (本科生), Kailin Zhang† (本科生), Jianlin Zheng† (本科生), Tianruo Liu, Tianxiang Zhao *, Haopeng Yang, **Jipeng Guo***. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026. (共同通讯, †共同一作)
   
 - **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026, 177: 113378. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326003432) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
