@@ -33,8 +33,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Decoupling then Soft Cross-view Association induced Graph Representation Learning, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
-- Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs, 2025. Under review, prepared by *[Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN)*. [[PDF]](https://arxiv.org/abs/2411.11284) (三作) (Major Revision)
-
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
@@ -55,6 +53,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+
+- [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun, Jipeng Guo, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://arxiv.org/abs/2411.11284))
+
 - Yi Liu (本科生), Tianruo Liu, Tianxiang Zhao, Weijie Shi, **Jipeng Guo***, Feiyao Yu. "From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs", _**IJCNN**_, 2026. (通讯)
 
 - Tianyou Yu† (本科生), Kailin Zhang† (本科生), Jianlin Zheng† (本科生), Tianruo Liu, Tianxiang Zhao\*, Haopeng Yang, **Jipeng Guo***. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026. (共同通讯, †共同一作)
