@@ -20,6 +20,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs in Node Classification" is now accepted in _**IEEE Transactions on Neural Networks and Learning Systems**_. (Mar 2026)
+  
 * **<span style="color:red;">[Paper:]</span>** Our paper "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering" is now accepted in _**IJCNN2026**_. (Mar 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "From Local to Global: A Hybrid GCN-Transformer for Heterophilic Graph Representation Learning" is now accepted in _**IJCNN2026**_. (Mar 2026)
