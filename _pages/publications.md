@@ -54,7 +54,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 **<span style="color:green;">[2026]</span>**
 
-- [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://arxiv.org/abs/2411.11284)
+- [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun\*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://arxiv.org/abs/2411.11284) (共同通讯)
 
 - Yi Liu (本科生), Tianruo Liu, Tianxiang Zhao, Weijie Shi, **Jipeng Guo***, Feiyao Yu. "From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs", _**IJCNN**_, 2026. (通讯)
 
