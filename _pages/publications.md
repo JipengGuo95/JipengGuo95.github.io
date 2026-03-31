@@ -68,7 +68,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
-- 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A) [[Code]](https://github.com/beicheng101/CfACL)
+- 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026. (CCF-A) [[PDF]](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c250604?viewType=HTML) [[Code]](https://github.com/beicheng101/CfACL) (doi: 10.16383/j.aas.c250604)
 
 - [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026, 172: 112463. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
