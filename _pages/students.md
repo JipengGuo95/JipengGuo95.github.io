@@ -56,9 +56,14 @@ redirect_from:
 [肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
 
 ## 在读本科生:
-郭书畅 (IJCNN2025), 陈文轩 (IJCNN2025, UNIfied 2025)
+2026届: 郭书畅, 保研至北京大学直博 (IJCNN2025);
+
+2027届: 陈文轩, 本校保研 (IJCNN2025, UNIfied 2025); 于天佑, 张凯麟, 郑建林, 余飞尧, [史伟杰]+ (IJCNN2026);
+
+
+
+
 
 ## 毕业生:
-**<span style="color:green;">[2022级]</span>**
 
-[尹腾霄]+, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
+[尹腾霄]+, 2025届硕士毕业生, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
