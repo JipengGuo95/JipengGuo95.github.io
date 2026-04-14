@@ -49,6 +49,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Aligning What with When: Knowledge Graph–Grounded Retrieval and Temporal Adaptation for LLM Reasoning, 2026. Under review, prepared by *[Jiapu Wang](https://scholar.google.com/citations?user=k8YPCRgAAAAJ&hl=zh-CN)*. (五作)
 
+- Exact Finite-Sample Variance Decomposition of Subagging: A Spectral Filtering Perspective, 2026. [[PDF]](https://arxiv.org/pdf/2604.10469) Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
+
 
 ## Publications (* indicating the corresponding author)
 
