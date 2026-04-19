@@ -74,7 +74,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, **Jipeng Guo***. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026, 172: 112463. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
-- Youqing Wang, [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Mingliang Cui, Junbin Gao, Li Liang, **Jipeng Guo***. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2026, 13(2): 421-435. [[PDF]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125564) [[Code]](https://github.com/TianxiangZhao0474/WGCN.git) 
+- Youqing Wang, [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Mingliang Cui, Junbin Gao, Li Liang, **Jipeng Guo***. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2026, 13(2): 421-435. [[PDF]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125564) [[Code]](https://github.com/TianxiangZhao0474/WGCN.git)
+
+- 朱生刚, 杨皓鹏, 李昱翰, 刘明佳, **郭继鹏**, 王友清*. "基于全局-局部结构保持的鲁棒非负矩阵分解故障检测方法", _**控制工程**_, 2026.
 
 **<span style="color:green;">[2025]</span>**
 -  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
