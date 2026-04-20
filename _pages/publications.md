@@ -25,8 +25,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
 
-- Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution, 2025. Preprint, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. (通讯) (Major Revision)
-
 - Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯) (Major Revision)
 
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
@@ -55,6 +53,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026. (通讯)
 
 - [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun\*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11479909) (共同通讯)
 
