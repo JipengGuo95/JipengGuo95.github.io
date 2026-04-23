@@ -53,6 +53,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature selection and double self-expressive tensor fusion for multi-view subspace clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub)
+  
 - Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026. (通讯) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608026004855)
 
 - [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun\*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11479909) (共同通讯)
