@@ -20,7 +20,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
-* **<span style="color:red;">[Paper:]</span>** Our paper "Feature selection and double self-expressive tensor fusion for multi-view subspace clustering" is now accepted in _**Information Sciences**_. (Apr. 2026)
+* **<span style="color:red;">[Paper:]</span>** Our paper "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering" is now accepted in _**Information Sciences**_. (Apr. 2026)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution" is now accepted in _**Neural Networks**_. (Apr. 2026)
 
