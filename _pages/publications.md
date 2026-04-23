@@ -53,15 +53,15 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub)
+- Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
   
 - Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026. (通讯) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608026004855)
 
 - [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun\*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11479909) (共同通讯)
 
-- Yi Liu (本科生), Tianruo Liu, Tianxiang Zhao, Weijie Shi, **Jipeng Guo***, Feiyao Yu. "From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs", _**IJCNN**_, 2026.
+- Yi Liu (本科生), Tianruo Liu, Tianxiang Zhao, Weijie Shi, **Jipeng Guo***, Feiyao Yu. "From Local to Global: Leveraging Graph Transformer and Graph Convolutional Networks for Heterophilic Graphs", _**IJCNN**_, 2026. [[Code]](https://github.com/Liu-yi-ian/GCNormer)
 
-- Tianyou Yu† (本科生), Kailin Zhang† (本科生), Jianlin Zheng† (本科生), Tianruo Liu, Tianxiang Zhao\*, Haopeng Yang, **Jipeng Guo***. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026. (共同通讯, †共同一作)
+- Tianyou Yu† (本科生), Kailin Zhang† (本科生), Jianlin Zheng† (本科生), Tianruo Liu, Tianxiang Zhao\*, Haopeng Yang, **Jipeng Guo***. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026. (共同通讯, †共同一作) [[Code]](https://github.com/Liu-yi-ian/GCNormer)
   
 - **Jipeng Guo**, Xiang Xu, Yu Cao, Man Cao, Mengyuan Xin, Tianxiang Zhao, Ye Su, Junbin Gao, Mingliang Cui, Youqing Wang*. "Anchor-to-Graph Structural Co-regularization for Scalable Multi-View Clustering", _**Pattern Recognition**_, 2026, 177: 113378. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326003432) [[Code]](https://github.com/XX106222/AGSCR-MVC)
 
