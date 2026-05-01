@@ -51,7 +51,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2026]</span>**
 - Youqing Wang, TianxiangZhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
 
-- Youqing Wang, Jiahao Long, TianxiangZhao*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
+- Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
 
 - Ye Su, Longlong Zhao*, Diego García-Gil, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026.
 
