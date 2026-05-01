@@ -13,10 +13,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - Unity in Diversity: Consensus-Structured Specificity Learning for Incomplete Multi-View Clustering, 2026. Preprint, prepared by *Yu Cao*. (通讯)
 
-- Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (通讯)
-
-- Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion, 2026. Preprint, prepared by *Jiahao Long*. (通讯)
-
 - Discriminative Representation Learning via Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
 - Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao*. (通讯)
@@ -53,6 +49,12 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Youqing Wang, TianxiangZhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
+
+- Youqing Wang, Jiahao Long, TianxiangZhao*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
+
+- Ye Su, Longlong Zhao*, Diego García-Gil, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026.
+
 - Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
   
 - Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026. (通讯) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608026004855)
