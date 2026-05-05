@@ -13,7 +13,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Preprints
 - Unity in Diversity: Consensus-Structured Specificity Learning for Incomplete Multi-View Clustering, 2026. Preprint, prepared by *Yu Cao*. (通讯)
 
-- Discriminative Representation Learning via Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
+- Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
 - Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao*. (通讯)
 
