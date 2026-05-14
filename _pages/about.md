@@ -20,6 +20,8 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Density Peak Anchor Selection for Multi-View Clustering" is now accepted in _**ICML**_. (May 2026)
+* 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion" is now accepted in _**ICML**_. (May 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion" is now accepted in _**ICML**_. (May 2026)
