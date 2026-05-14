@@ -49,6 +49,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026.
+
 - Youqing Wang, TianxiangZhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
 
 - Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
