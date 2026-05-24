@@ -55,7 +55,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
 
-- Ye Su, Longlong Zhao*, Diego García-Gil, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
+- Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
 
 - Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
   
