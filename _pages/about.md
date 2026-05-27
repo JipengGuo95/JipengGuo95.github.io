@@ -20,7 +20,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
-* **<span style="color:red;">[Paper:]</span>** Our paper "GrasshopperML: A mechanism-guidedmachine learning framework with combinatorialoptimization for grasshopper risk warning" is now accepted in _**Artificial Intelligence in Agriculture**_. (May 2026)
+* **<span style="color:red;">[Paper:]</span>** Our paper "GrasshopperML: A mechanism-guided machine learning framework with combinatorial optimization for grasshopper risk warning" is now accepted in _**Artificial Intelligence in Agriculture**_. (May 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Density Peak Anchor Selection for Multi-View Clustering" is now accepted in _**IEEE Transactions on Circuits and Systems for Video Technology**_. (May 2026)
  
