@@ -49,7 +49,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
+- Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
