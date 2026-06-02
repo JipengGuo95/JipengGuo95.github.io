@@ -15,11 +15,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
-- Collaborative-Aware Representation Augmentation and Dual-Channel Adaptive Contrastive Learning for Multi-View Graph Clustering, 2025. Preprint, prepared by *Tianxiang Zhao*. (通讯)
+- Heterophily-aware Multi-view Graph Clustering with Center-deviation Revaluation Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (通讯)
 
-- Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2025. Preprint, prepared by *Bin Xiao*. (通讯)
+- Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2026. Preprint, prepared by *Bin Xiao*. (通讯)
 
-- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯)
+- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2026. Preprint, prepared by *Yan Pan*. (通讯)
 
 - Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯) (Major Revision)
 
