@@ -41,7 +41,7 @@ redirect_from:
 
 许翔, 研究方向: 大规模多模态聚类; <span style="color: #FF9700">【PR】
 
-[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS, ICML, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
+[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
 
 [潘岩]+, 研究方向: 开放环境下多工况过程监测; <span style="color: #FF9700">【UNIfied2025】
 
@@ -49,9 +49,9 @@ redirect_from:
   
 **<span style="color:green;">[2023]</span>**
 
-[龙家豪]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML, CAC2024】
+[龙家豪]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML2026, CAC2024】
 
-[徐世龙]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金】</span>
+[徐世龙]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金,北京市优秀毕业生】
 
 [肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
 
