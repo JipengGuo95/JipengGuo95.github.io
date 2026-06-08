@@ -86,7 +86,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - 朱生刚, 杨皓鹏, 李昱翰, 刘明佳, **郭继鹏**, 王友清*. "基于全局-局部结构保持的鲁棒非负矩阵分解故障检测方法", _**控制工程**_, 2026.
 
 **<span style="color:green;">[2025]</span>**
--  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+-  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025, 115969-115994. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a845c35c57947ce27d7c3f5c2ed5efef-Abstract-Conference.html) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
 
 -  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025, 74: 3542316. [[PDF]](https://ieeexplore.ieee.org/document/11021477) [[Code]](https://github.com/SoarYin/FIGNN.git)
 
