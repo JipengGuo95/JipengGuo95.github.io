@@ -53,9 +53,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
-- Youqing Wang, TianxiangZhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png)) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
+- Youqing Wang, TianxiangZhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
 
-- Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
+- Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/DCD-GNN-ICML2026-POSTER.png) [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
 
 - Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
 
@@ -73,7 +73,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jinlu Wang, Yanfeng Sun, Jiapu Wang, Junbin Gao, Shaofan Wang, Baocai Yin, **Jipeng Guo***. "ComGRL: Comprehensive Graph Representation Learning from Local to Global Bridged by Mixup",  _**IEEE Transactions on Computational Social Systems**_, 2026, 13(3): 2839-2852. [[PDF]](https://ieeexplore.ieee.org/document/11420259/) [[Code]](https://github.com/JinluWang1002/ComGRL)
 
-- Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026. [[PDF]](https://openreview.net/forum?id=a5aRjldX9l) [[Code]](https://github.com/caoyu110/ARSL-IMVC)
+- Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026. [[PDF]](https://openreview.net/forum?id=a5aRjldX9l) [[Poster]](http://JipengGuo95.github.io/files/ARSL-IMVC-ICLR-Poster.png) [[Code]](https://github.com/caoyu110/ARSL-IMVC)
 
 - Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
@@ -86,7 +86,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 - 朱生刚, 杨皓鹏, 李昱翰, 刘明佳, **郭继鹏**, 王友清*. "基于全局-局部结构保持的鲁棒非负矩阵分解故障检测方法", _**控制工程**_, 2026.
 
 **<span style="color:green;">[2025]</span>**
--  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025, 115969-115994. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a845c35c57947ce27d7c3f5c2ed5efef-Abstract-Conference.html) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
+-  [Tianxiang Zhao](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN), Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, **Jipeng Guo***. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025, 115969-115994. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a845c35c57947ce27d7c3f5c2ed5efef-Abstract-Conference.html) [[Poster]](http://JipengGuo95.github.io/files/RAGC-NeruIPS-Poster.png) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
 
 -  Youqing Wang, Tengxiao Yin, Shenggang Zhu, Xin Ma, Li Liang, **Jipeng Guo***. "FIGNN: Fuzzy Inference-guided Graph Neural Network for Fault Diagnosis in Industrial Processes", _**IEEE Transactions on Instrumentation and Measurement**_, 2025, 74: 3542316. [[PDF]](https://ieeexplore.ieee.org/document/11021477) [[Code]](https://github.com/SoarYin/FIGNN.git)
 
