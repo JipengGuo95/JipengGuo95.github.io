@@ -22,7 +22,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 # 🔥 <i><span style="color:red;">News</span></i>
 * **<span style="color:green;">[Congratulation:]</span>** 获批**北京市自然科学基金-小米创新联合基金重点项目**(多模态大模型驱动的智能制造可靠演化与高效构建关键技术研究, 共同牵头人/课题负责人). (June 2026)
 
-* **<span style="color:green;">[Congratulation:]</span>** 荣获**2026年度中国仿真学会高等教育教学成果特等奖**(王友清, 苏海佳, 李大字, 马鑫, **郭继鹏**, 韩永明). (June 2026)
+* **<span style="color:green;">[Congratulation:]</span>** 🏆荣获**2026年度中国仿真学会高等教育教学成果特等奖**(王友清, 苏海佳, 李大字, 马鑫, **郭继鹏**, 韩永明). (June 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning" is now accepted in _**Artificial Intelligence in Agriculture**_. (May 2026)
 
