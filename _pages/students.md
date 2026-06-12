@@ -20,40 +20,40 @@ redirect_from:
 ## 在读博士生:
 **<span style="color:green;">[2025]</span>** 
 
-[辛梦媛]+, 研究方向: 人工智能模型安全与可信;
+👩[辛梦媛]+, 研究方向: 人工智能模型安全与可信;
 
 **<span style="color:green;">[2024]</span>** 
 
-王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD, IEEE TCSS, Neural Networks】
+👩王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD, IEEE TCSS, Neural Networks】
 
 ## 在读硕士生:
 **<span style="color:green;">[2025]</span>** 
 
-曹曼, 研究方向: 图模型与生物信息计算;
+👩曹曼, 研究方向: 图模型与生物信息计算;
 
-[杨皓鹏]+, 研究方向: 深度学习及其工业过程监测应用; <span style="color: #FF9700">【《控制工程》】
+👨[杨皓鹏]+, 研究方向: 深度学习及其工业过程监测应用; <span style="color: #FF9700">【《控制工程》】
 
-[王宇晨]+, 研究方向: 图异常检测/时序图分析;
+👨[王宇晨]+, 研究方向: 图异常检测/时序图分析;
 
-[李兴凯]+, 研究方向: 时序异常检测;
+👨[李兴凯]+, 研究方向: 时序异常检测;
 
 **<span style="color:green;">[2024]</span>**
 
-许翔, 研究方向: 大规模多模态聚类; <span style="color: #FF9700">【PR】
+👨许翔, 研究方向: 大规模多模态聚类; <span style="color: #FF9700">【PR】
 
-[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
+👨[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
 
-[潘岩]+, 研究方向: 开放环境下多工况过程监测; <span style="color: #FF9700">【UNIfied2025】
+👨[潘岩]+, 研究方向: 开放环境下多工况过程监测; <span style="color: #FF9700">【UNIfied2025】
 
-[曹雨]+, 研究方向: 不完备多模态聚类; <span style="color: #FF9700">【ICLR2026】
+👩[曹雨]+, 研究方向: 不完备多模态聚类; <span style="color: #FF9700">【ICLR2026】
   
 **<span style="color:green;">[2023]</span>**
 
-[龙家豪]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML2026, CAC2024】
+👨[龙家豪]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML2026, CAC2024】
 
-[徐世龙]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金,北京市优秀毕业生】
+👨[徐世龙]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金,北京市优秀毕业生】
 
-[肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
+👨[肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
 
 ## 在读本科生:
 2026届: 郭书畅, 保研至北京大学直博 (IJCNN2025);
