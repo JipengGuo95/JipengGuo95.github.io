@@ -11,7 +11,7 @@ He is a **Associate Professor** in the College of Information Science and Techno
 
 I received my PH.D degree (Control Science and Engineering) with **多模态认知计算与智能软件技术**北京重点实验室 (led by Prof. [Baocai Yin (尹宝才)](https://yanzhao.bjut.edu.cn/info/1434/11431.htm)) at Beijing University of Technology (BJUT), China, in 2023. Prof. [Yanfeng Sun (孙艳丰)](https://sist.bjut.edu.cn/info/1403/2479.htm) is my PH.D advisor. I am also co-supervised by Prof. [Junbin Gao (高俊斌)](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html) from University of Sydney.
 
-[中文介绍](https://cist.buct.edu.cn/2023/1024/c8725a183240/page.htm). Email: guojipeng@buct.edu.cn
+[中文介绍](https://cist.buct.edu.cn/_s11/2026/0603/c15683a220211/page.psp). Email: guojipeng@buct.edu.cn
 
 ## Main Research Interests
 - Machine Learning and Pattern Recognition
