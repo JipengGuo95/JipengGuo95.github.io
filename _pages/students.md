@@ -18,6 +18,11 @@ redirect_from:
 <span style="color: #FF9700">【X】</span>表示已发表论文
 
 ## 在读博士生:
+
+**<span style="color:green;">[2026]</span>** 
+
+👨[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+ (硕博连读), 研究方向: 深度图聚类/大模型/AI4SCI; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
+
 **<span style="color:green;">[2025]</span>** 
 
 👩[辛梦媛]+, 研究方向: 人工智能模型安全与可信;
@@ -27,6 +32,14 @@ redirect_from:
 👩王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD, IEEE TCSS, Neural Networks】
 
 ## 在读硕士生:
+**<span style="color:green;">[2026]</span>** 
+
+👩熊梓玉
+
+👨王云海
+
+👨[陈静宇]+
+
 **<span style="color:green;">[2025]</span>** 
 
 👩曹曼, 研究方向: 图模型与生物信息计算;
@@ -41,19 +54,13 @@ redirect_from:
 
 👨许翔, 研究方向: 大规模多模态聚类; <span style="color: #FF9700">【PR】
 
-👨[[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN)]+, 研究方向: 深度图聚类/大模型; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
-
 👨[潘岩]+, 研究方向: 开放环境下多工况过程监测; <span style="color: #FF9700">【UNIfied2025】
 
 👩[曹雨]+, 研究方向: 不完备多模态聚类; <span style="color: #FF9700">【ICLR2026】
   
 **<span style="color:green;">[2023]</span>**
 
-👨[龙家豪]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML2026, CAC2024】
-
-👨[徐世龙]+, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金,北京市优秀毕业生】
-
-👨[肖斌]+, 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
+👨[肖斌]+ (工保-4年制), 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
 
 ## 在读本科生:
 2026届: 郭书畅, 保研至北京大学直博 (IJCNN2025);
@@ -65,5 +72,8 @@ redirect_from:
 
 
 ## 毕业生:
+👨[龙家豪]+, 2026届硕士毕业生, 研究方向: 异配图表示学习; <span style="color: #FF9700">【ICML2026, CAC2024】
 
-[尹腾霄]+, 2025届硕士毕业生, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
+👨[徐世龙]+, 2026届硕士毕业生, 研究方向: 异配图表示学习; <span style="color: #FF9700">【《自动化学报》, CAC2024】,  </span><span style="color: #FF0000">【国家奖学金,北京市优秀毕业生】
+
+👨[尹腾霄]+, 2025届硕士毕业生, 研究方向: 图神经网络与故障诊断; <span style="color: #FF9700">【IEEE TIM, YAC2025】
