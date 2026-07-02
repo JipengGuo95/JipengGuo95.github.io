@@ -31,8 +31,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
-- Joint tensor self-representation and discriminative feature extraction for multi-view clustering, 2025. Under review, prepared by Fen Xu. (三作) (Major Revision)
-
 - ParetoBoost: A Conflict-Averse Gradient Fusion Framework for Imbalanced Ensemble Learning, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
 
 - From Bias Decay to Variance Control: Gradient-Guided Newton Boosting, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
@@ -49,6 +47,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+-  Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026.
+
 - Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
