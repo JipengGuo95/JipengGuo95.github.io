@@ -47,7 +47,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
--  Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026.
+-  Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
 
 - Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
 
