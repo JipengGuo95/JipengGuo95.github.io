@@ -17,8 +17,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Heterophily-aware Multi-view Graph Clustering with Center-deviation Revaluation Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (通讯)
 
-- Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering, 2026. Preprint, prepared by *Bin Xiao*. (通讯)
-
 - Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2026. Preprint, prepared by *Yan Pan*. (通讯)
 
 - Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯) (Major Revision)
@@ -47,6 +45,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo**. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026.
 
 - Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
 
