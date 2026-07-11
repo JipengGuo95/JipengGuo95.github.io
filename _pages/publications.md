@@ -53,9 +53,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
-- Youqing Wang, Tianxiang Zhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
+- Youqing Wang, Tianxiang Zhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[PDF]](https://openreview.net/forum?id=XtqZ41BUkF) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
 
-- Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/DCD-GNN-ICML2026-POSTER.png) [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
+- Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[PDF]](https://openreview.net/forum?id=W2AcLgOlvX) [[Poster]](http://JipengGuo95.github.io/files/DCD-GNN-ICML2026-POSTER.png) [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
 
 - Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
 
