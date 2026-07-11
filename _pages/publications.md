@@ -33,7 +33,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - From Bias Decay to Variance Control: Gradient-Guided Newton Boosting, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
 
-- A novel ensemble learning algorithm with bagging-boosting hybrid fusion architecture: towards imbalanced classification and interpretable feature selection, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作, 共同通讯)
+- A novel ensemble learning algorithm with bagging-boosting hybrid fusion architecture: towards imbalanced classification and interpretable feature selection, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
 
 - VIBoost: Re-framing Boosting Paradigm from a Variational Inference Perspective, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
 
