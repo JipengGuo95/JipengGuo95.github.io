@@ -61,7 +61,7 @@ redirect_from:
   
 **<span style="color:green;">[2023]</span>**
 
-👨[肖斌]+ (工保-4年制), 研究方向: 深度多模态聚类; <span style="color: #FF9700">【COCOA2024】
+👨[肖斌]+ (工保-4年制), 研究方向: 深度多模态聚类; <span style="color: #FF9700">【ACM MM2026, COCOA2024】
 
 ## 在读本科生:
 2026届: 郭书畅, 保研至北京大学直博 (IJCNN2025);
