@@ -11,6 +11,8 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
+- Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2026. Preprint. (第一作者)
+
 - Unity in Diversity: Consensus-Structured Specificity Learning for Incomplete Multi-View Clustering, 2026. Preprint, prepared by *Yu Cao*. (通讯)
 
 - Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
@@ -21,13 +23,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯) (Major Revision)
 
-- Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2025. Preprint, prepared by *Jiahao Long*. (通讯)
-
 - Decoupling then Soft Cross-view Association induced Graph Representation Learning, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
+- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*.（通讯）
 
 - ParetoBoost: A Conflict-Averse Gradient Fusion Framework for Imbalanced Ensemble Learning, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
 
@@ -45,7 +45,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026.
+- Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026. 
 
 - Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
 
@@ -53,7 +53,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
-- Youqing Wang, Tianxiang Zhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[PDF]](https://openreview.net/forum?id=XtqZ41BUkF) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
+- Youqing Wang, Tianxiang Zhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[PDF]](https://openreview.net/forum?id=XtqZ41BUkF) [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
 
 - Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[PDF]](https://openreview.net/forum?id=W2AcLgOlvX) [[Poster]](http://JipengGuo95.github.io/files/DCD-GNN-ICML2026-POSTER.png) [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
 
