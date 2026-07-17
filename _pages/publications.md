@@ -11,6 +11,8 @@ redirect_from:
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 ## Preprints
+- DMCA: A Visual-Modality-Only Dual-Manifold Collaborative Attack on Vision-Language Models, 2026. Preprint, prepared by *Mengyuan Xin*. (通讯)
+  
 - Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2026. Preprint. (第一作者)
 
 - Unity in Diversity: Consensus-Structured Specificity Learning for Incomplete Multi-View Clustering, 2026. Preprint, prepared by *Yu Cao*. (通讯)
