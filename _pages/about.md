@@ -15,6 +15,7 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 
 ## Main Research Interests
 - Machine Learning and Pattern Recognition
+- Artificial Intelligence Security and Large Language Models
 - Multi-view/Multi-modal Representation Learning and Clustering
 - Graph Representation Learning and Its Applications
 - Industrial Big Data Analysis and Fault Diagnosis
