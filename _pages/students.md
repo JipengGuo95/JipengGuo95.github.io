@@ -29,7 +29,7 @@ redirect_from:
 
 **<span style="color:green;">[2024]</span>** 
 
-👩王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD, IEEE TCSS, Neural Networks】
+👩王金露 (北京工业大学, 合作指导), 研究方向: 图机器学习与大模型; <span style="color: #FF9700">【IEEE TBD, IEEE TCSS*2, Neural Networks】
 
 ## 在读硕士生:
 
