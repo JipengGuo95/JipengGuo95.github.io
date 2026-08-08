@@ -19,11 +19,11 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
 
-- Heterophily-aware Multi-view Graph Clustering with Center-deviation Revaluation Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (通讯)
+- Heterophily-aware Multi-view Graph Clustering with Center-deviation Revaluation Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (共同通讯)
 
-- Dual-guard Continual Dictionary Learning with Adaptive Atom Replacement and Principal Subspace Preservation for Incremental Multi-mode Process Monitoring, 2026. Preprint, prepared by *Yan Pan*. (通讯)
+- 基于双重保护持续字典学习的多工况过程智能监测方法, 2026. Preprint, prepared by *Yan Pan*. (共同通讯)
 
-- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (通讯) (Major Revision)
+- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (共同通讯) (SCIENCE CHINA Information Sciences, Major Revision)
 
 - Decoupling then Soft Cross-view Association induced Graph Representation Learning, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
 
