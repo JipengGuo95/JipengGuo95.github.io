@@ -29,8 +29,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
 
-- Grassmann Manifold Trajectory Representation for Video Domain Adaptation, 2025. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*.（通讯）
-
 - ParetoBoost: A Conflict-Averse Gradient Fusion Framework for Imbalanced Ensemble Learning, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
 
 - From Bias Decay to Variance Control: Gradient-Guided Newton Boosting, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
@@ -47,6 +45,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
+- [Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN), Yanfeng Sun, Tianhang Long, Baocai Yin, **Jipeng Guo***. "Grassmann Manifold Trajectory Representation for Video Domain Adaptation", _**IEEE Transactions on Computational Social Systems**_, 2026.
+
 - Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026. 
 
 - Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
