@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Grassmann Manifold Trajectory Representation for Video Domain Adaptation" is now accepted in _**IEEE Transactions on Computational Social Systems**_. (August 2026)
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering" is now accepted in _**ACM MM**_. (July 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering" is now accepted in _**Information Fusion**_. (July 2026)
