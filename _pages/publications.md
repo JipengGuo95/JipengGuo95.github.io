@@ -47,7 +47,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 **<span style="color:green;">[2026]</span>**
 - [Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN), Yanfeng Sun, Tianhang Long, Baocai Yin, **Jipeng Guo***. "Grassmann Manifold Trajectory Representation for Video Domain Adaptation", _**IEEE Transactions on Computational Social Systems**_, 2026.
 
-- Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026. 
+- Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026. [[Code]](https://github.com/Qingguchat/GLCMoE)
 
 - Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
 
