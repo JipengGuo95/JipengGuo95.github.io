@@ -45,7 +45,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- [Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN), Yanfeng Sun, Tianhang Long, Baocai Yin, **Jipeng Guo***. "Grassmann Manifold Trajectory Representation for Video Domain Adaptation", _**IEEE Transactions on Computational Social Systems**_, 2026.
+- [Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN), Yanfeng Sun, Tianhang Long, Baocai Yin, **Jipeng Guo***. "Grassmann Manifold Trajectory Representation for Video Domain Adaptation", _**IEEE Transactions on Computational Social Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11656240)
 
 - Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026. [[Code]](https://github.com/Qingguchat/GLCMoE)
 
