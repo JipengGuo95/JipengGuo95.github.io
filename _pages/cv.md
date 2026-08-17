@@ -19,7 +19,7 @@ redirect_from:
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Image Processing
-- IEEE Transactions on Neural Networks and Learning System 
+- IEEE Transactions on Neural Networks and Learning Systems 
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Big Data
 - IEEE/CAA Journal of Automatica Sinica (JAS)
@@ -34,8 +34,8 @@ redirect_from:
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), [2026] 
 - International Conference on Combinatorial Optimization and Applications (COCOA), [2025](http://www.cocoa2025.com/cocoa/index.html)  (程序委员会委员) 
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), [2026](https://pakdd2026.org/)
-- Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, [2026](https://aaai.org/conference/aaai/aaai-26/)
-- Annual Conference on Neural Information Processing Systems (NeurIPS) [2025](https://neurips.cc/)
+- Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, 2026, [2027](https://aaai.org/conference/aaai/aaai-27/)
+- Annual Conference on Neural Information Processing Systems (NeurIPS) 2025, [2026](https://neurips.cc/)
 - ACM International Conference on Multimedia (ACM MM) 2025, [2026](https://2026.acmmm.org/)
 - International Joint Conference on Artificial Intelligence (IJCAI) 2025, [2026](https://2026.ijcai.org/)
 - International Conference on Machine Learning (ICML) 2025, [2026](https://icml.cc/)
