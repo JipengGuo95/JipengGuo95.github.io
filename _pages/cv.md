@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## 编委
+- 执行编委, 计算机科学, 中文核心/CCF-B中文期刊/计算领域高质量科技期刊T2类
+
 ## Reports/Session Chair
 - 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, 分会场口头汇报, 贵阳. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
 - 无监督图对比表示学习方法及工业应用, 2025 CSIG青年科学家会议-学术服务论坛: 计算机视觉, 青岛. [[Picture]](http://JipengGuo95.github.io/files/CSIG2025.jpg)
