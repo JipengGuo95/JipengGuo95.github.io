@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "基于双重保护持续字典学习的多工况过程智能监测方法" is now accepted in _**中国科学*技术科学**_. (Sep 2026)
+  
 * **<span style="color:green;">[Congratulation:]</span>** 获批**国家科技重大专项** (煤制油气工业智能控制系统开发及应用, 子课题负责人). (Sep 2026)
 
 * **<span style="color:green;">[Congratulation:]</span>** 担任**计算机科学 (北大中文核心, CCF-B类中文期刊)** 执行编委. (Sep 2026)
