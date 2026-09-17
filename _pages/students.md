@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2026年预计招收2-3名硕士研究生，<i><span style="color:red;">欢迎联系! ! !</span></i> 
+# <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/8bb61f5a-17f9-4174-acda-cbbaf01e3960" /> 2027年招收2-3名硕士生，其中1名保研名额<i><span style="color:red;">欢迎联系! ! !</span></i> 
 **机器学习与数据挖掘智能小组**科研氛围浓厚、软硬件支撑完备，根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人综合素质。有兴趣者可以发邮件垂询送至guojipeng@buct.edu.cn. 
 
 **当然, 我们也是一群欢乐的科研人, [哈](http://JipengGuo95.github.io/files/new2.jpg) [哈](http://JipengGuo95.github.io/files/new1.jpg) [哈](http://JipengGuo95.github.io/files/new3.jpg).**
