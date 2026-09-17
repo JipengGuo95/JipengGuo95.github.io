@@ -43,7 +43,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- 潘岩†, 杨皓鹏†, 王友清, 徐云龙, 刘腾飞, 李方昱*, **郭继鹏***. "基于双重保护持续字典学习的多工况过程智能监测方法", _**中国科学*技术科学**_, 2026. (共同通讯, †共同一作)
+- 潘岩†, 杨皓鹏†, 王友清, 徐云龙, 刘腾飞, 李方昱\*, **郭继鹏***. "基于双重保护持续字典学习的多工况过程智能监测方法", _**中国科学*技术科学**_, 2026. (共同通讯, †共同一作)
 
 - [Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN), Yanfeng Sun, Tianhang Long, Baocai Yin, **Jipeng Guo***. "Grassmann Manifold Trajectory Representation for Video Domain Adaptation", _**IEEE Transactions on Computational Social Systems**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11656240)
 
