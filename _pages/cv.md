@@ -11,6 +11,7 @@ redirect_from:
 
 ## 编委
 - 执行编委, 计算机科学, 中文核心/CCF-B中文期刊/计算领域高质量科技期刊T2类
+- 青年编委, Computers, Materials and Continua, SCI/IF=2.4/JCR Q3 [[Editorial Board]](http://JipengGuo95.github.io/files/Editorial_Board_3845.pdf)
 
 ## Reports/Session Chair
 - 基于双跨视相关性检测的多视子空间聚类, ChinaMM2022, 分会场口头汇报, 贵阳. [[Picture]](http://JipengGuo95.github.io/files/ChinaMM2022Oral.jpg)
