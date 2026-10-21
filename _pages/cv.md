@@ -35,6 +35,7 @@ redirect_from:
 - 计算机科学
 
 ## Reviewer/Program Committee for Conferences
+- International Conference on Machine Learning (ICML) 2025, 2026, [2027 (Area Chair, AC)](https://icml.cc/)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), [2026] 
 - International Conference on Combinatorial Optimization and Applications (COCOA), [2025](http://www.cocoa2025.com/cocoa/index.html)  (程序委员会委员) 
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), [2026](https://pakdd2026.org/)
@@ -42,7 +43,6 @@ redirect_from:
 - Annual Conference on Neural Information Processing Systems (NeurIPS) 2025, [2026](https://neurips.cc/)
 - ACM International Conference on Multimedia (ACM MM) 2025, [2026](https://2026.acmmm.org/)
 - International Joint Conference on Artificial Intelligence (IJCAI) 2025, [2026](https://2026.ijcai.org/)
-- International Conference on Machine Learning (ICML) 2025, 2026, [2027, Area Chair (AC)](https://icml.cc/)
 - International Conference on Learning Representations (ICLR) 2025, [2026](https://iclr.cc/Conferences/2026)
 - International Joint Conference on Neural Networks (IJCNN) 2024, 2025, [2026](https://attend.ieee.org/wcci-2026/)
 - International Conference on Pattern Recognition 2022, 2024, [2026](https://icpr2026.org/)
