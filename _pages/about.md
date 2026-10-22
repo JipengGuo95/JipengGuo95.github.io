@@ -22,7 +22,7 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 
 # 🔥 <i><span style="color:red;">News</span></i>
 * **<span style="color:green;">[Congratulation:]</span>** **赵天祥** 入选**2026年中国科协青年科技人才培育工程博士生专项计划**. (Oct 2026)
-* 
+ 
 * **<span style="color:green;">[Congratulation:]</span>** I'm serving as the Area Chair of [[ICML'27]](https://icml.cc/). (Oct 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "基于双重保护持续字典学习的多工况过程智能监测方法" is now accepted in _**中国科学*技术科学**_. (Sep 2026)
