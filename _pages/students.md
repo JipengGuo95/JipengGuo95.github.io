@@ -20,7 +20,7 @@ redirect_from:
 
 **<span style="color:green;">[2026]</span>** 
 
-👨[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN) (硕博连读), 研究方向: 深度图聚类/大模型/AI4SCI; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金】</span>
+👨[赵天祥](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=zh-CN) (硕博连读), 研究方向: 深度图聚类/大模型/AI4SCI; <span style="color: #FF9700">【NeurIPS2025, ICML2026, IEEE/CAA JAS, PR】, </span><span style="color: #FF0000">【国家奖学金, 2026年中国科协青年科技人才培育工程博士生专项计划】</span>
 
 **<span style="color:green;">[2025]</span>** 
 
