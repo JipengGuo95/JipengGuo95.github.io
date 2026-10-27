@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Improving Anchor Prototype Discriminability with Dual-level Alignment for Scalable Multi-view Clustering" is now accepted in _**Signal Processing**_. (OCT 2026)
+
 * **<span style="color:green;">[Congratulation:]</span>** **赵天祥** 入选**2026年中国科协青年科技人才培育工程博士生专项计划**. (Oct 2026)
  
 * **<span style="color:green;">[Congratulation:]</span>** I'm serving as the Area Chair of [[ICML'27]](https://icml.cc/). (Oct 2026)
