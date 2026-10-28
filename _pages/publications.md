@@ -10,36 +10,6 @@ redirect_from:
 
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
-## Preprints
-- DMCA: A Visual-Modality-Only Dual-Manifold Collaborative Attack on Vision-Language Models, 2026. Preprint, prepared by *Mengyuan Xin*. (通讯)
-  
-- Heterogeneity is Not Global Metric: Mixed-pass Aggregation via Parallel Cross-filtering for GNNs, 2026. Preprint. (第一作者)
-
-- Unity in Diversity: Consensus-Structured Specificity Learning for Incomplete Multi-View Clustering, 2026. Preprint, prepared by *Yu Cao*. (通讯)
-
-- Anchor-Sample Centroid Alignment for Large-scale Multi-view Subspace Clustering, 2026. Preprint, prepared by *Xiang Xu*. (通讯)
-
-- Heterophily-aware Multi-view Graph Clustering with Center-deviation Revaluation Fusion, 2026. Preprint, prepared by *Tianxiang Zhao*. (共同通讯)
-
-- Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring, 2025. Preprint, prepared by *Yan Pan*. (共同通讯) (SCIENCE CHINA Information Sciences, Major Revision)
-
-- Decoupling then Soft Cross-view Association induced Graph Representation Learning, 2026. Under review, prepared by *[Jinlu Wang](https://scholar.google.com/citations?user=aNE6kYAAAAAJ&hl=zh-CN)*. （通讯）
-
-- Sparse Matrix Estimation for Dynamic Process Monitoring based on Multiperiod Bipartite Graph Embedding Learning, 2025. Under review, prepared by *Mingliang Cui*. (三作)
-
-- ParetoBoost: A Conflict-Averse Gradient Fusion Framework for Imbalanced Ensemble Learning, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
-
-- From Bias Decay to Variance Control: Gradient-Guided Newton Boosting, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
-
-- A novel ensemble learning algorithm with bagging-boosting hybrid fusion architecture: towards imbalanced classification and interpretable feature selection, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
-
-- VIBoost: Re-framing Boosting Paradigm from a Variational Inference Perspective, 2026. Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (三作)
-
-- Aligning What with When: Knowledge Graph–Grounded Retrieval and Temporal Adaptation for LLM Reasoning, 2026. Under review, prepared by *[Jiapu Wang](https://scholar.google.com/citations?user=k8YPCRgAAAAJ&hl=zh-CN)*. (五作)
-
-- Exact Finite-Sample Variance Decomposition of Subagging: A Spectral Filtering Perspective, 2026. [[PDF]](https://arxiv.org/pdf/2604.10469) Under review, prepared by *[Ye Su](https://scholar.google.com/citations?hl=zh-CN&user=xHkyPbAAAAAJ&view_op=list_works&sortby=pubdate)*. (四作)
-
-
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
