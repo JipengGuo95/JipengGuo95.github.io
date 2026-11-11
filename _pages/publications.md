@@ -13,7 +13,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 ## Publications (* indicating the corresponding author)
 
 **<span style="color:green;">[2026]</span>**
-- Haopeng Yang, Youqing Wang, Xiang Xu, Weijie Shi, Chenrui Zhang, Peiyao Liu, Jingfang Chen\*, **Jipeng Guo***. "Improving Anchor Prototype Discriminability with Dual-level Alignment for Scalable Multi-view Clustering", _**Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0165168426005086) (共同通讯)
+- Haopeng Yang, Youqing Wang, Xiang Xu, Weijie Shi, Chenrui Zhang, Peiyao Liu, Jingfang Chen\*, **Jipeng Guo***. "Improving Anchor Prototype Discriminability with Dual-level Alignment for Scalable Multi-view Clustering", _**Signal Processing**_, 2026, 253: 110995. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0165168426005086) (共同通讯)
 
 - 潘岩†, 杨皓鹏†, 王友清, 徐云龙, 刘腾飞, 李方昱\*, **郭继鹏***. "基于双重保护持续字典学习的多工况过程智能监测方法", _**中国科学*技术科学**_, 2026. [[PDF]](https://www.sciengine.com/SST/doi/10.1360/SST-2026-0209) (共同通讯, †共同一作)
 
@@ -25,7 +25,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
 
-- Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
+- Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026, 36(9): 13447-13459. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
 - Youqing Wang, Tianxiang Zhao, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026. [[PDF]](https://openreview.net/forum?id=XtqZ41BUkF) [[Poster]](http://JipengGuo95.github.io/files/APGC-ICML2026-POSTER.png) [[Code]](https://github.com/TianxiangZhao0474/APGC.git)
 
@@ -33,9 +33,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
 
-- Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
+- Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026, 749: 123534. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
   
-- Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026. (通讯) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608026004855)
+- Jinlu Wang, Yanfeng Sun, Junbin Gao, Shaofan Wang, Qi Zhang, Yachao Yang, Baocai Yin, **Jipeng Guo***. "Hybrid Attention Learning with Pseudo-label Prompted Adaptive Graph Evolution", _**Neural Networks**_, 2026, 202: 109025. (通讯) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608026004855)
 
 - [Yachao Yang](https://scholar.google.com/citations?user=Rlgeaq4AAAAJ&hl=zh-CN), Yanfeng Sun\*, **Jipeng Guo***, Shaofan Wang, Jinlu Wang, Junbin Gao, Fujiao Fu, Baocai Yin. "Attribute-Topology Cross-Frequency Aligned Graph Neural Networks for Homophilic and Heterophilic Graphs", _**IEEE Transactions on Neural Networks and Learning Systems**_, 2026, 37(10): 5179-5192. [[PDF]](https://ieeexplore.ieee.org/document/11479909) (共同通讯)
 
@@ -49,7 +49,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Youqing Wang, Yu Cao, Jinlu Wang, Xiang Xu, Jiapu Wang, Tengfei Liu, Junbin Gao, **Jipeng Guo***. "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering", _**ICLR**_, 2026. [[PDF]](https://openreview.net/forum?id=a5aRjldX9l) [[Poster]](http://JipengGuo95.github.io/files/ARSL-IMVC-ICLR-Poster.png) [[Code]](https://github.com/caoyu110/ARSL-IMVC)
 
-- Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
+- Haoyan Yang, Qianyin Wei, Tianchuan Yang, **Jipeng Guo***. "Adaptive Sparse Graph for Multi-view Clustering",  _**Digital Signal Processing**_, 2026, 173: 105944. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200426000643) [[Code]](https://github.com/ytccyw/MNVMC)
 
 - 王友清, 徐世龙, 赵天祥, 王宇晨, 辛梦媛, 张琦, 苏烨, **郭继鹏***. "基于分数阶图神经扩散的跨频域对齐对比学习方法", _**自动化学报**_, 2026, 52(6): 1189-1200. (CCF-A) [[PDF]](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c250604?viewType=HTML) [[Code]](https://github.com/beicheng101/CfACL) (doi: 10.16383/j.aas.c250604)
 
