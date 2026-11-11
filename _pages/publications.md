@@ -21,9 +21,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Youqing Wang, Bin Xiao, Mengyuan Xin, Man Cao, Tianxiang Zhao, Ye Su, Mingliang Cui, Tengfei Liu, **Jipeng Guo***. "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering", _**ACM MM**_, 2026, 10979-10988. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3767308.3835037) [[Code]](https://github.com/Qingguchat/GLCMoE)
 
-- Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
+- Fen Xu, Tianchuan Yang, **Jipeng Guo**, Haoyan Yang, Xiuyu Yue, Xiangcheng Li, Youming Sun, Haiqiang Chen. "Joint Tensor Self-representation and Discriminative Feature Extraction for Multi-view Clustering", _**Information Fusion**_, 2026, 137: 104583. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253526004616) [[Code]](https://github.com/ytccyw/JTSF-MVC)
 
-- Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
+- Ye Su, Longlong Zhao*, **Jipeng Guo**, Wenjiang Huang, Xiaoli Li, Hongzhong Li, Jinsong Chen. "GrasshopperML: A Mechanism-guided Machine Learning Framework with Combinatorial Optimization for Grasshopper Risk Warning", _**Artificial Intelligence in Agriculture**_, 2026, 16(3): 1504-1518. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2589721726000516)
 
 - Tianchuan Yang, Haoyan Yang, Man-Sheng Chen, Chang-Dong Wang, **Jipeng Guo**, Xiangcheng Li, Youming Sun, Fuying Huang, Haiqiang Chen. "Density Peak Anchor Selection for Multi-View Clustering", _**IEEE Transactions on Circuits and Systems for Video Technology**_, 2026, 36(9): 13447-13459. [[PDF]](https://ieeexplore.ieee.org/document/11534303) [[Code]](https://github.com/ytccyw/DPAS-MC)
 
@@ -31,7 +31,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Youqing Wang, Jiahao Long, TianxiangZhao\*, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, **Jipeng Guo***. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026. [[PDF]](https://openreview.net/forum?id=W2AcLgOlvX) [[Poster]](http://JipengGuo95.github.io/files/DCD-GNN-ICML2026-POSTER.png) [[Code]](https://github.com/dhuash/DCD-GNN-CODE.git)
 
-- Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026. [[PDF]](https://arxiv.org/pdf/2605.04671)
+- Ye Su, Longlong Zhao*, Diego García-Gil*, **Jipeng Guo**, Gangchun Zhang, Jinxin Chen, Jinsong Chen. "ITBoost: Information-Theoretic Trust for Robust Boosting", _**IJCAI**_, 2026, 4849-4857. [[PDF]](https://arxiv.org/pdf/2605.04671)
 
 - Tianqi Zheng, Xiangcheng Li, Youming Sun, **Jipeng Guo**, Tianchuan Yang*, Haiqiang Chen*. "Feature Selection and Double Self-expressive Tensor Fusion for Multi-view Subspace Clustering", _**Information Sciences**_, 2026, 749: 123534. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526004652?via%3Dihub) [[Code]](https://github.com/ZTQstudyztq/FSDSTF)
   
