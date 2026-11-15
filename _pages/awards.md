@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+🏆 **Outstanding Paper Award**, *ACM Multimedia (CCF-A)*, 2026.
+
 🏆 **2026年度中国仿真学会高等教育教学成果特等奖**, 完成人: 王友清, 苏海佳, 李大字, 马鑫, **郭继鹏**, 韩永明
 
 🏆 《协同表示的多视子空间聚类方法研究》获**北京图象图形学学会优秀博士论文** (京津冀共5篇)，2023.
