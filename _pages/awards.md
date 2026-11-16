@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-🏆 **Outstanding Paper Award**, *ACM Multimedia (CCF-A)*, 2026. Outstanding%20Paper
+🏆 **Outstanding Paper Award**, *ACM Multimedia (CCF-A)*, 2026. [[MM]](http://JipengGuo95.github.io/files/Outstanding%20Paper.png) 
 
 🏆 **2026年度中国仿真学会高等教育教学成果特等奖**, 完成人: 王友清, 苏海佳, 李大字, 马鑫, **郭继鹏**, 韩永明
 
