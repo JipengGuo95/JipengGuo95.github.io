@@ -44,7 +44,7 @@ redirect_from:
 
 👩曹曼, 研究方向: 图模型与生物信息计算;
 
-👨杨皓鹏, 研究方向: 深度学习及其工业过程监测应用; <span style="color: #FF9700">【Signal Processing, 《控制工程》,《中国科学*技术科学》, ICARCV2026】
+👨杨皓鹏, 研究方向: 深度学习及其工业过程监测应用; <span style="color: #FF9700">【Signal Processing, 《控制工程》,《中国科学*技术科学》, ICARCV2026】, </span><span style="color: #FF0000">【北京化工大学-小米特等奖学金】</span>
 
 👨王宇晨, 研究方向: 图异常检测/时序图分析;
 
