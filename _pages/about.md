@@ -21,6 +21,8 @@ I received my PH.D degree (Control Science and Engineering) with **多模态认�
 - Industrial Big Data Analysis and Fault Diagnosis
 
 # 🔥 <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Paper:]</span>** Our paper "Cross-mode Reconstruction and Diverse Low-rank Embedding Representation Learning for Multi-mode Process Monitoring" is now accepted in _**SCIENCE CHINA Information Sciences**_. (Oct 2026)
+  
 * **<span style="color:green;">[🏆Congratulation:]</span>** Our paper "Global-and-Local Mixture-of-Experts with Dual-level Contrastive Learning for Deep Multi-view Clustering" 荣获**Outstanding Paper Award** in ACM Multimedia 2026. (Nov 2026)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "Improving Anchor Prototype Discriminability with Dual-level Alignment for Scalable Multi-view Clustering" is now accepted in _**Signal Processing**_. (Oct 2026)
